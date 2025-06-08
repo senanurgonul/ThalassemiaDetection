@@ -1,6 +1,6 @@
 # ThalassemiaDetection
 
-**ThalassemiaDetection**, rutin kan tahlili (CBC) verileri kullanılarak çeşitli **talasemi (thalassemia)** alt tiplerini sınıflandırmayı amaçlayan bir makine öğrenimi projesidir. Genetik testlere gerek kalmadan, yalnızca hematolojik değerlerle doğru ve erken tanı koymayı hedefleyen bu çalışma, klinik karar destek sistemlerine katkı sağlamayı amaçlamaktadır.
+**ThalassemiaDetection**, rutin kan tahlili (CBC) verileri kullanılarak çeşitli **talasemi (thalassemia)** alt tiplerini sınıflandırmayı amaçlayan bir projedir. Genetik testlere gerek kalmadan, yalnızca hematolojik değerlerle doğru ve erken tanı koymayı hedefleyen bu çalışma, klinik karar destek sistemlerine katkı sağlamayı amaçlamaktadır.
 
 ---
 
@@ -64,7 +64,7 @@ jupyter notebook Untitled12.ipynb
 
 Notebook içindeki adımları takip ederek verileri yükleyebilir, modelleri eğitebilir ve sonuçları analiz edebilirsiniz.
 
----m.
+---
 
 Bu proje ile sadece doğruluk değil, aynı zamanda **klinik anlamda güvenilir ve anlaşılabilir sonuçlar üreten** bir model hedeflenmiştir. Modelin en başarılı çıktısı olan **TabNet**, hem doğruluk hem de yorumlanabilirlik açısından dikkat çekmiştir.
 
