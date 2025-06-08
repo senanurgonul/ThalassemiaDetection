@@ -1,0 +1,1452 @@
+id,HB,MCV,Hb A0,Hb A2,Hb A1C/Hb F,Hb E,Hb Bart's,Hb D/S/Constant/C,Interpretation
+12,C,G,I,E,A,A,A,A,Alpha thal trait
+13,A,G,D,D,C,A,A,B,Alpha thal trait
+14,C,G,I,D,A,A,A,A,Alpha thal trait
+15,D,G,K,E,A,A,A,A,Alpha thal trait
+16,C,H,K,D,C,A,A,A,Alpha thal trait
+17,A,E,I,D,A,A,A,A,Alpha thal trait
+18,A,G,H,D,A,A,A,A,Alpha thal trait
+19,A,G,I,D,A,A,A,A,Alpha thal trait
+20,B,G,D,E,A,A,A,A,Alpha thal trait
+21,B,G,J,E,A,A,A,A,Alpha thal trait
+22,B,G,K,E,A,A,A,A,Alpha thal trait
+23,C,G,F,D,C,A,A,A,Alpha thal trait
+24,A,H,K,E,A,A,A,A,Alpha thal trait
+25,B,H,I,E,A,A,A,A,Alpha thal trait
+26,B,H,J,E,A,A,A,A,Alpha thal trait
+27,C,H,H,E,C,A,A,A,Alpha thal trait
+28,B,D,K,D,A,A,A,A,Alpha thal trait
+29,A,G,I,E,A,A,A,A,Alpha thal trait
+30,B,G,J,E,A,A,A,A,Alpha thal trait
+31,B,G,K,E,A,A,A,A,Alpha thal trait
+32,D,G,H,E,A,A,A,A,Alpha thal trait
+33,B,H,I,E,A,A,A,A,Alpha thal trait
+34,B,H,J,D,A,A,A,A,Alpha thal trait
+35,B,H,K,E,A,A,A,A,Alpha thal trait
+36,C,H,H,D,A,A,A,A,Alpha thal trait
+37,C,F,H,D,A,A,A,A,Alpha thal trait
+38,B,G,I,E,A,A,A,A,Alpha thal trait
+39,B,G,K,D,A,A,A,A,Alpha thal trait
+40,C,G,G,D,A,A,A,A,Alpha thal trait
+41,C,G,H,D,B,A,A,A,Alpha thal trait
+42,C,G,J,D,C,A,A,A,Alpha thal trait
+43,A,H,I,E,A,A,A,A,Alpha thal trait
+44,B,H,K,D,A,A,A,A,Alpha thal trait
+45,C,H,G,E,A,A,A,A,Alpha thal trait
+46,C,H,J,D,A,A,A,A,Alpha thal trait
+47,D,H,H,E,A,A,A,A,Alpha thal trait
+48,C,H,H,E,B,A,A,A,Alpha thal trait
+49,C,C,H,D,A,B,A,A,Alpha thal1 trait
+50,C,D,E,D,C,D,A,A,Alpha thal1 trait
+51,A,A,K,D,A,A,A,A,Alpha thal1 trait
+52,A,B,K,E,A,A,A,A,Alpha thal1 trait
+53,B,D,K,D,A,A,A,A,Alpha thal1 trait
+54,A,A,I,E,A,A,A,A,Alpha thal1 trait
+55,A,A,K,D,A,A,A,A,Alpha thal1 trait
+56,C,A,J,E,A,A,A,A,Alpha thal1 trait
+57,A,B,I,D,A,A,A,A,Alpha thal1 trait
+58,A,B,K,E,A,A,A,A,Alpha thal1 trait
+59,A,C,I,E,B,A,A,A,Alpha thal1 trait
+60,A,C,J,E,B,A,A,A,Alpha thal1 trait
+61,A,C,K,D,A,A,A,A,Alpha thal1 trait
+62,C,C,H,E,A,A,A,A,Alpha thal1 trait
+63,A,D,I,D,A,A,A,A,Alpha thal1 trait
+64,A,D,J,D,A,A,A,A,Alpha thal1 trait
+65,A,D,K,D,A,A,A,A,Alpha thal1 trait
+66,B,D,H,D,A,A,A,A,Alpha thal1 trait
+67,A,E,I,D,A,A,A,A,Alpha thal1 trait
+68,A,E,K,E,A,A,A,A,Alpha thal1 trait
+69,B,E,H,E,C,A,A,A,Alpha thal1 trait
+70,B,E,J,E,A,A,A,A,Alpha thal1 trait
+71,A,F,I,D,A,A,A,A,Alpha thal1 trait
+72,A,F,K,E,A,A,A,A,Alpha thal1 trait
+73,B,F,H,E,C,A,A,A,Alpha thal1 trait
+74,B,F,J,E,A,A,A,A,Alpha thal1 trait
+75,C,F,D,D,A,A,A,A,Alpha thal1 trait
+76,A,A,K,D,A,A,A,A,Alpha thal1 trait
+77,A,B,I,D,A,A,A,A,Alpha thal1 trait
+78,A,B,K,E,A,A,A,A,Alpha thal1 trait
+79,B,B,H,D,C,A,A,A,Alpha thal1 trait
+80,C,B,J,D,A,A,A,A,Alpha thal1 trait
+81,A,C,I,D,A,A,A,A,Alpha thal1 trait
+82,A,C,K,D,A,A,A,B,Alpha thal1 trait
+83,C,C,G,D,C,A,A,A,Alpha thal1 trait
+84,C,C,H,E,C,A,A,A,Alpha thal1 trait
+85,A,D,I,D,A,A,A,A,Alpha thal1 trait
+86,A,D,K,E,A,A,A,A,Alpha thal1 trait
+87,B,D,H,D,B,A,A,A,Alpha thal1 trait
+88,B,D,J,E,A,A,A,A,Alpha thal1 trait
+89,C,D,I,D,A,D,A,A,Alpha thal1 trait
+90,B,E,I,D,A,A,A,A,Alpha thal1 trait
+91,B,E,J,E,C,A,A,A,Alpha thal1 trait
+92,B,E,K,E,A,A,A,A,Alpha thal1 trait
+93,A,F,K,D,A,A,A,A,Alpha thal1 trait
+94,B,F,I,E,B,A,A,A,Alpha thal1 trait
+95,B,F,J,D,A,A,A,A,Alpha thal1 trait
+96,C,F,H,E,A,A,A,A,Alpha thal1 trait
+97,B,A,K,E,A,A,A,A,Alpha thal1 trait
+98,B,B,I,E,A,A,A,A,Alpha thal1 trait
+99,B,B,K,D,B,A,A,A,Alpha thal1 trait
+100,A,C,K,D,A,A,A,A,Alpha thal1 trait
+101,B,C,H,E,C,A,A,A,Alpha thal1 trait
+102,B,C,I,E,A,A,A,A,Alpha thal1 trait
+103,A,D,J,E,A,A,A,A,Alpha thal1 trait
+104,A,D,K,D,A,A,A,A,Alpha thal1 trait
+105,B,D,H,D,A,A,A,A,Alpha thal1 trait
+106,B,D,I,E,A,A,A,A,Alpha thal1 trait
+107,A,E,K,E,B,A,A,A,Alpha thal1 trait
+108,B,E,I,D,A,A,A,A,Alpha thal1 trait
+109,D,E,H,D,D,A,A,A,Alpha thal1 trait
+110,A,F,H,D,A,A,A,A,Alpha thal1 trait
+111,A,F,K,E,A,A,A,A,Alpha thal1 trait
+112,B,F,I,E,A,A,A,A,Alpha thal1 trait
+113,C,F,J,E,A,A,A,A,Alpha thal1 trait
+114,D,G,I,E,A,A,A,A,Alpha thal1 trait
+115,C,H,H,D,A,A,A,A,Alpha thal1 trait
+116,C,H,K,D,A,A,A,A,Alpha thal1 trait
+117,C,A,K,E,A,A,A,A,Alpha thal1 trait
+118,C,C,K,D,A,A,A,A,Alpha thal1 trait
+119,C,E,K,D,A,A,A,A,Alpha thal1 trait
+120,B,D,I,F,D,A,A,A,Beta thal trait
+121,C,D,F,F,D,A,A,A,Beta thal trait
+122,D,F,F,F,D,A,A,A,Beta thal trait
+123,C,G,E,F,D,A,A,A,Beta thal trait
+124,C,G,G,F,D,A,A,A,Beta thal trait
+125,C,G,I,G,A,A,A,A,Beta thal trait
+126,A,B,I,F,D,A,A,A,Beta thal trait
+127,C,G,C,G,D,A,A,A,Beta thal trait
+128,C,J,B,F,D,A,A,A,Beta thal trait
+129,A,A,K,F,A,A,A,A,Beta thal trait
+130,B,A,I,F,A,A,A,A,Beta thal trait
+131,B,A,J,G,A,A,A,A,Beta thal trait
+132,C,A,H,F,A,A,A,A,Beta thal trait
+133,A,B,G,G,B,A,A,A,Beta thal trait
+134,B,B,H,F,B,A,A,A,Beta thal trait
+135,B,B,K,G,B,A,A,A,Beta thal trait
+136,C,B,B,G,A,A,A,A,Beta thal trait
+137,A,C,I,F,C,A,A,A,Beta thal trait
+138,B,C,G,G,C,A,A,A,Beta thal trait
+139,B,C,H,G,C,A,A,A,Beta thal trait
+140,B,C,J,G,C,A,A,A,Beta thal trait
+141,B,C,K,G,A,A,A,A,Beta thal trait
+142,A,D,H,F,C,A,A,A,Beta thal trait
+143,B,D,G,G,C,A,A,A,Beta thal trait
+144,B,D,J,G,B,A,A,A,Beta thal trait
+145,B,D,K,G,B,A,A,A,Beta thal trait
+146,A,E,I,G,D,A,A,A,Beta thal trait
+147,B,E,H,F,C,A,A,A,Beta thal trait
+148,C,E,G,F,C,A,A,A,Beta thal trait
+149,C,E,K,G,A,A,A,A,Beta thal trait
+150,A,F,H,F,C,A,A,A,Beta thal trait
+151,B,F,I,G,A,A,A,A,Beta thal trait
+152,B,F,K,F,A,A,A,A,Beta thal trait
+153,C,F,J,F,C,A,A,A,Beta thal trait
+154,B,G,J,G,C,A,A,A,Beta thal trait
+155,B,G,K,G,B,A,A,A,Beta thal trait
+156,C,G,H,G,C,A,A,A,Beta thal trait
+157,C,H,I,F,A,A,A,A,Beta thal trait
+158,C,H,K,F,A,A,A,A,Beta thal trait
+159,B,I,G,G,C,A,A,A,Beta thal trait
+160,C,I,I,F,A,A,A,A,Beta thal trait
+161,C,I,K,G,B,A,A,A,Beta thal trait
+162,C,J,H,G,C,A,A,A,Beta thal trait
+163,C,J,I,F,B,A,A,A,Beta thal trait
+164,B,K,K,G,A,A,A,A,Beta thal trait
+165,C,K,I,G,A,A,A,A,Beta thal trait
+175,A,A,A,G,D,F,A,A,Beta0 thal/Hb E disease
+176,A,B,A,G,D,E,A,A,Beta0 thal/Hb E disease
+177,A,B,A,G,D,F,A,A,Beta0 thal/Hb E disease
+178,A,C,A,G,D,D,A,A,Beta0 thal/Hb E disease
+179,A,C,A,H,D,E,A,A,Beta0 thal/Hb E disease
+180,B,C,A,G,D,G,A,A,Beta0 thal/Hb E disease
+181,C,C,A,H,D,F,A,A,Beta0 thal/Hb E disease
+182,A,D,A,H,D,D,A,A,Beta0 thal/Hb E disease
+183,A,D,A,G,D,E,A,A,Beta0 thal/Hb E disease
+184,A,D,A,G,D,F,A,A,Beta0 thal/Hb E disease
+185,B,E,A,G,D,E,A,A,Beta0 thal/Hb E disease
+186,B,E,A,H,D,F,A,A,Beta0 thal/Hb E disease
+187,D,F,A,G,D,E,A,A,Beta0 thal/Hb E disease
+188,B,G,A,G,D,F,A,A,Beta0 thal/Hb E disease
+189,C,G,A,H,D,D,A,A,Beta0 thal/Hb E disease
+200,A,D,A,B,F,A,A,A,FA2
+201,A,E,A,A,F,A,A,A,FA2
+202,A,G,A,B,F,A,A,A,FA2
+203,A,G,B,B,F,A,A,A,FA2
+204,A,I,A,B,F,A,A,A,FA2
+205,A,J,A,A,F,A,A,A,FA2
+206,A,J,B,B,F,A,A,A,FA2
+207,A,K,A,B,F,A,A,A,FA2
+208,C,D,I,E,A,A,B,A,Hb CS trait
+209,C,F,K,E,A,A,B,A,Hb CS trait
+210,B,G,I,E,B,A,B,A,Hb CS trait
+211,B,G,K,E,B,A,B,A,Hb CS trait
+212,C,G,I,E,B,A,A,A,Hb CS trait
+213,B,I,K,E,B,A,B,A,Hb CS trait
+214,D,I,I,E,A,A,B,A,Hb CS trait
+215,B,D,I,E,A,A,B,A,Hb CS trait
+216,C,E,G,E,A,A,B,A,Hb CS trait
+217,C,G,I,E,B,A,B,A,Hb CS trait
+218,C,H,I,E,A,A,B,A,Hb CS trait
+219,C,I,I,E,B,A,B,A,Hb CS trait
+220,A,D,I,E,A,A,B,A,Hb CS trait
+221,B,D,K,E,A,A,B,A,Hb CS trait
+222,C,E,H,E,A,A,B,A,Hb CS trait
+223,B,G,I,E,A,A,B,A,Hb CS trait
+224,C,G,K,E,A,A,B,A,Hb CS trait
+225,B,H,K,E,A,A,B,A,Hb CS trait
+226,C,I,K,E,A,A,B,A,Hb CS trait
+227,B,K,K,E,A,A,B,A,Hb CS trait
+228,A,A,A,B,A,G,A,A,Hb E Homozygote
+229,A,A,A,A,C,G,A,A,Hb E Homozygote
+230,A,A,J,C,C,G,A,A,Hb E Homozygote
+231,B,A,A,C,B,G,A,A,Hb E Homozygote
+232,A,B,A,A,A,G,A,A,Hb E Homozygote
+233,A,B,A,C,B,G,A,A,Hb E Homozygote
+234,A,B,A,A,C,G,A,A,Hb E Homozygote
+235,B,B,J,A,B,G,A,A,Hb E Homozygote
+236,A,C,A,C,D,F,A,A,Hb E Homozygote
+237,A,C,A,A,A,G,A,A,Hb E Homozygote
+238,A,C,A,B,C,G,A,A,Hb E Homozygote
+239,B,C,A,A,B,G,A,A,Hb E Homozygote
+240,B,C,J,A,B,G,A,A,Hb E Homozygote
+241,C,C,J,A,A,G,A,A,Hb E Homozygote
+242,A,D,A,A,A,G,A,A,Hb E Homozygote
+243,B,D,A,B,B,G,A,A,Hb E Homozygote
+244,B,D,A,B,C,G,A,A,Hb E Homozygote
+245,B,D,J,C,B,G,A,A,Hb E Homozygote
+246,C,D,A,B,D,G,A,A,Hb E Homozygote
+247,A,E,A,C,B,G,A,A,Hb E Homozygote
+248,B,E,A,C,A,G,A,A,Hb E Homozygote
+249,B,E,A,C,C,G,A,A,Hb E Homozygote
+250,B,E,J,C,A,G,A,A,Hb E Homozygote
+251,C,E,A,C,C,F,A,A,Hb E Homozygote
+252,B,F,A,B,C,G,A,A,Hb E Homozygote
+253,B,F,A,C,B,G,A,A,Hb E Homozygote
+254,B,F,A,C,A,G,A,A,Hb E Homozygote
+255,C,G,A,A,A,G,A,A,Hb E Homozygote
+256,D,G,A,B,B,G,A,A,Hb E Homozygote
+257,B,H,A,B,C,G,A,A,Hb E Homozygote
+258,A,I,A,C,B,G,A,A,Hb E Homozygote
+259,C,J,D,D,A,D,A,A,Hb E trait
+260,A,A,D,F,A,D,A,A,Hb E trait
+261,C,A,E,E,A,D,A,A,Hb E trait
+262,D,A,D,F,B,D,A,A,Hb E trait
+263,A,B,F,E,A,D,A,A,Hb E trait
+264,B,B,A,E,A,G,A,A,Hb E trait
+265,A,C,D,D,C,D,A,A,Hb E trait
+266,A,D,G,D,A,D,A,A,Hb E trait
+267,B,D,G,F,A,C,A,A,Hb E trait
+268,B,D,J,E,A,D,A,A,Hb E trait
+269,C,D,E,D,B,D,A,A,Hb E trait
+270,D,E,C,F,A,D,A,A,Hb E trait
+271,B,F,C,F,B,D,A,A,Hb E trait
+272,B,F,J,F,B,D,A,A,Hb E trait
+273,C,F,D,E,A,A,A,A,Hb E trait
+274,C,F,D,D,D,D,A,A,Hb E trait
+275,C,F,E,F,C,D,A,A,Hb E trait
+276,B,G,F,E,B,D,A,A,Hb E trait
+277,B,G,J,F,C,D,A,A,Hb E trait
+278,C,G,C,D,C,D,A,A,Hb E trait
+279,C,G,F,F,C,D,A,A,Hb E trait
+280,C,G,K,D,A,D,A,A,Hb E trait
+281,B,I,D,D,B,C,A,A,Hb E trait
+282,C,I,A,D,A,D,A,A,Hb E trait
+283,C,J,D,F,A,C,A,A,Hb E trait
+284,C,K,D,D,C,C,A,A,Hb E trait
+285,C,H,D,E,D,A,A,A,Hb E trait
+286,B,J,H,F,A,A,A,A,Hb E trait
+287,C,G,D,D,A,A,A,A,Hb E trait
+288,C,G,D,F,C,A,A,A,Hb E trait
+289,A,A,G,D,C,B,A,A,Hb E trait + Alpha thal1 trait
+290,A,A,H,D,A,B,A,A,Hb E trait + Alpha thal1 trait
+291,A,A,I,F,A,B,A,A,Hb E trait + Alpha thal1 trait
+292,A,A,E,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+293,B,A,F,D,B,B,A,A,Hb E trait + Alpha thal1 trait
+294,B,A,K,E,A,B,A,A,Hb E trait + Alpha thal1 trait
+295,A,B,G,D,B,B,A,A,Hb E trait + Alpha thal1 trait
+296,A,B,H,E,A,B,A,A,Hb E trait + Alpha thal1 trait
+297,B,B,I,F,A,B,A,A,Hb E trait + Alpha thal1 trait
+298,B,B,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+299,C,B,F,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+300,C,B,E,E,C,C,A,A,Hb E trait + Alpha thal1 trait
+301,B,C,J,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+302,B,C,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+303,B,C,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+304,B,C,H,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+305,C,C,F,D,A,B,A,A,Hb E trait + Alpha thal1 trait
+306,C,C,E,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+307,A,D,J,D,B,B,A,A,Hb E trait + Alpha thal1 trait
+308,A,D,E,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+309,A,D,F,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+310,A,D,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+311,B,D,D,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+312,B,D,G,D,A,C,B,A,Hb E trait + Alpha thal1 trait
+313,B,D,H,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+314,A,E,D,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+315,A,E,G,F,C,C,A,A,Hb E trait + Alpha thal1 trait
+316,B,E,F,E,A,B,A,A,Hb E trait + Alpha thal1 trait
+317,B,E,E,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+318,B,E,J,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+319,C,E,H,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+320,A,F,F,E,A,B,A,A,Hb E trait + Alpha thal1 trait
+321,A,F,G,E,C,C,A,A,Hb E trait + Alpha thal1 trait
+322,B,F,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+323,B,F,E,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+324,B,F,J,F,B,C,A,A,Hb E trait + Alpha thal1 trait
+325,D,F,C,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+326,B,G,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+327,B,G,E,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+328,B,G,F,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+329,B,G,G,E,B,C,A,A,Hb E trait + Alpha thal1 trait
+330,B,G,J,E,D,C,A,A,Hb E trait + Alpha thal1 trait
+331,D,G,C,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+332,B,H,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+333,C,H,E,F,B,C,A,A,Hb E trait + Alpha thal1 trait
+334,C,H,J,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+335,B,I,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+336,B,I,E,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+337,B,I,F,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+338,B,I,G,D,B,C,A,A,Hb E trait + Alpha thal1 trait
+339,B,J,D,E,B,C,A,A,Hb E trait + Alpha thal1 trait
+340,C,J,C,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+341,C,J,E,F,B,C,A,A,Hb E trait + Alpha thal1 trait
+353,B,A,J,E,A,A,A,B,Hb H disease
+354,A,B,I,E,A,A,A,B,Hb H disease
+355,A,B,K,E,A,A,A,B,Hb H disease
+356,B,B,G,D,A,A,A,B,Hb H disease
+357,B,B,H,E,A,A,A,B,Hb H disease
+358,B,B,K,D,B,A,A,A,Hb H disease
+359,A,C,G,D,A,A,A,B,Hb H disease
+360,A,C,I,D,A,A,A,B,Hb H disease
+361,B,C,H,E,B,A,A,B,Hb H disease
+362,C,C,K,D,A,A,A,B,Hb H disease
+363,A,D,G,E,A,A,A,B,Hb H disease
+364,A,D,I,E,A,A,A,B,Hb H disease
+365,A,D,J,D,A,A,A,B,Hb H disease
+366,B,D,H,E,A,A,A,B,Hb H disease
+367,B,D,K,D,A,A,A,B,Hb H disease
+368,C,E,G,E,A,A,A,B,Hb H disease
+369,A,F,G,D,A,A,A,B,Hb H disease
+370,B,G,G,E,A,A,A,B,Hb H disease
+371,A,A,K,D,A,A,A,A,Hb H disease
+372,C,A,I,D,A,A,A,B,Hb H disease
+373,C,A,K,E,A,A,A,B,Hb H disease
+374,A,B,H,E,A,A,A,B,Hb H disease
+375,A,B,I,D,A,A,A,B,Hb H disease
+376,A,B,K,D,A,A,A,B,Hb H disease
+377,B,B,I,D,A,A,A,A,Hb H disease
+378,A,C,K,E,A,A,A,B,Hb H disease
+379,B,C,H,D,A,A,A,B,Hb H disease
+380,A,D,K,D,B,A,A,B,Hb H disease
+381,B,D,H,D,A,A,A,B,Hb H disease
+382,A,E,J,E,A,A,A,B,Hb H disease
+383,B,E,H,D,A,A,A,B,Hb H disease
+384,A,F,J,E,A,A,A,B,Hb H disease
+385,A,K,G,E,A,A,A,B,Hb H disease
+386,B,B,I,E,A,A,A,B,Hb H disease
+387,A,C,I,E,A,A,A,B,Hb H disease
+388,A,F,H,D,A,A,A,B,Hb H disease
+389,A,G,F,D,A,A,B,A,Hb H disease
+412,D,I,I,E,A,A,A,A,Normal Hb type
+413,D,K,B,E,E,A,A,A,Normal Hb type
+414,D,J,K,E,A,A,A,A,Normal Hb type
+415,C,K,I,E,B,A,A,A,Normal Hb type
+416,D,K,B,E,E,A,A,A,Normal Hb type
+417,B,I,I,E,A,A,A,A,Normal Hb type
+418,B,I,K,E,C,A,A,A,Normal Hb type
+419,C,I,I,E,B,A,A,A,Normal Hb type
+420,B,J,I,E,A,A,A,A,Normal Hb type
+421,C,J,I,E,D,A,A,A,Normal Hb type
+422,C,J,I,E,B,A,A,A,Normal Hb type
+423,B,K,K,E,A,A,A,A,Normal Hb type
+424,C,K,J,E,B,A,A,A,Normal Hb type
+425,C,K,K,E,C,A,A,A,Normal Hb type
+426,B,I,I,E,A,A,A,A,Normal Hb type
+427,C,I,J,E,D,A,A,A,Normal Hb type
+428,C,I,K,E,C,A,A,A,Normal Hb type
+429,C,I,K,E,B,A,A,A,Normal Hb type
+430,B,J,K,E,A,A,A,A,Normal Hb type
+431,C,J,I,E,B,A,A,A,Normal Hb type
+432,C,J,I,E,C,A,A,A,Normal Hb type
+433,B,K,I,E,A,A,A,A,Normal Hb type
+434,C,K,H,E,B,A,A,A,Normal Hb type
+435,A,I,I,E,A,A,A,A,Normal Hb type
+436,C,I,I,E,B,A,A,A,Normal Hb type
+437,C,I,J,E,D,A,A,A,Normal Hb type
+438,B,J,I,E,A,A,A,A,Normal Hb type
+439,C,J,H,E,B,A,A,A,Normal Hb type
+440,C,J,I,E,C,A,A,A,Normal Hb type
+441,A,K,K,E,A,A,A,A,Normal Hb type
+442,B,K,K,E,B,A,A,A,Normal Hb type
+443,C,K,H,E,C,A,A,A,Normal Hb type
+444,B,I,K,E,B,A,A,A,Normal Hb type
+445,C,J,J,E,A,A,A,A,Normal Hb type
+446,C,F,D,E,A,D,A,A,Hb E trait
+447,C,G,D,E,C,D,A,A,Hb E trait
+448,C,G,E,F,A,D,A,A,Hb E trait
+449,C,F,I,E,A,A,A,A,Alpha thal1 trait
+450,C,K,K,E,A,A,A,A,Normal Hb type
+451,B,E,D,D,B,D,A,A,Hb E trait
+452,B,D,A,A,C,G,A,A,Hb E Homozygote
+453,C,D,K,D,A,A,A,A,Alpha thal1 trait
+454,B,G,D,E,B,D,A,A,Hb E trait
+455,C,K,E,E,A,D,A,A,Hb E trait
+456,B,G,K,E,A,A,A,A,Alpha thal trait
+457,C,G,E,D,A,D,A,A,Hb E trait
+458,B,E,D,E,A,D,A,A,Hb E trait
+459,C,E,F,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+460,C,F,D,E,A,D,A,A,Hb E trait
+461,C,G,I,E,A,A,A,A,Alpha thal trait
+462,C,E,I,D,A,A,A,A,Alpha thal1 trait
+463,B,H,D,D,A,D,A,A,Hb E trait
+464,C,F,I,D,A,A,A,A,Alpha thal1 trait
+465,C,E,D,D,A,D,A,A,Hb E trait
+466,C,I,E,D,A,D,A,A,Hb E trait
+467,C,G,K,D,A,A,A,A,Alpha thal trait
+468,C,D,K,D,A,A,A,A,Alpha thal1 trait
+469,C,I,D,E,A,D,A,A,Hb E trait
+470,B,K,D,F,A,D,A,A,Hb E trait
+471,C,G,D,F,A,D,A,A,Hb E trait
+472,C,K,I,E,A,A,A,A,Normal Hb type
+473,C,G,D,E,A,D,A,A,Hb E trait
+474,B,F,I,D,A,A,A,A,Alpha thal1 trait
+475,C,K,I,E,A,A,A,A,Normal Hb type
+476,D,G,D,F,A,D,A,A,Hb E trait
+477,D,F,D,E,A,D,A,A,Hb E trait
+478,C,D,F,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+479,C,I,D,F,A,D,A,A,Hb E trait
+480,C,I,K,E,A,A,A,A,Normal Hb type
+481,B,H,K,D,A,A,A,A,Alpha thal trait
+482,C,H,I,D,A,A,A,A,Alpha thal trait
+483,B,D,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+484,B,G,K,E,A,A,A,A,Alpha thal trait
+485,C,G,D,E,A,D,A,A,Hb E trait
+486,C,H,I,F,C,A,A,A,Beta thal trait
+487,D,K,D,D,A,D,A,A,Hb E trait
+488,C,F,D,F,A,D,A,A,Hb E trait
+489,C,I,K,E,A,A,A,A,Normal Hb type
+490,C,G,D,D,B,D,A,A,Hb E trait
+491,C,G,D,D,A,D,A,A,Hb E trait
+492,B,D,I,E,A,A,A,A,Alpha thal1 trait
+493,C,G,D,E,A,D,A,A,Hb E trait
+494,C,I,D,E,C,D,A,A,Hb E trait
+495,C,C,I,D,A,A,A,A,Alpha thal1 trait
+496,C,H,I,D,A,A,A,A,Alpha thal trait
+497,B,G,K,D,A,A,A,A,Alpha thal trait
+498,C,G,D,F,A,D,A,A,Hb E trait
+499,D,F,D,E,A,D,A,A,Hb E trait
+500,C,J,D,D,A,D,A,A,Hb E trait
+501,C,J,D,D,B,D,A,A,Hb E trait
+502,B,G,D,F,A,D,A,A,Hb E trait
+503,C,G,E,E,A,D,A,A,Hb E trait
+504,D,K,K,E,B,A,A,A,Normal Hb type
+505,C,I,D,D,B,D,A,A,Hb E trait
+506,C,G,G,F,A,D,A,A,Hb E trait
+507,D,J,D,E,B,D,A,A,Hb E trait
+508,D,F,D,E,A,D,A,A,Hb E trait
+509,B,G,D,F,A,D,A,A,Hb E trait
+510,C,G,K,E,A,A,A,A,Alpha thal trait
+511,C,H,K,E,A,A,A,A,Alpha thal trait
+512,D,I,E,E,A,D,A,A,Hb E trait
+513,C,G,F,D,A,D,A,A,Hb E trait
+514,C,G,D,E,A,D,A,A,Hb E trait
+515,C,I,E,F,A,D,A,A,Hb E trait
+516,C,G,D,D,A,D,A,A,Hb E trait
+517,C,J,D,E,B,D,A,A,Hb E trait
+518,B,I,E,D,A,D,A,A,Hb E trait
+519,C,G,K,E,A,A,A,A,Alpha thal trait
+520,C,G,K,D,A,A,A,A,Alpha thal trait
+521,D,J,E,D,A,D,A,A,Hb E trait
+522,B,C,I,G,A,A,A,A,Beta thal trait
+523,C,H,D,F,A,D,A,A,Hb E trait
+524,C,F,F,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+525,C,J,E,F,A,D,A,A,Hb E trait
+526,C,G,D,D,B,D,A,A,Hb E trait
+527,C,G,F,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+528,C,I,D,F,C,D,A,A,Hb E trait
+529,D,G,I,E,A,A,A,A,Alpha thal trait
+530,C,I,E,F,A,D,A,A,Hb E trait
+531,C,I,D,E,B,D,A,A,Hb E trait
+532,C,C,I,E,A,A,A,A,Alpha thal1 trait
+533,C,E,I,G,A,A,A,A,Beta thal trait
+534,C,G,D,D,A,D,A,A,Hb E trait
+535,D,I,E,F,A,D,A,A,Hb E trait
+536,C,I,D,E,B,D,A,A,Hb E trait
+537,C,G,D,E,A,D,A,A,Hb E trait
+538,D,D,H,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+539,C,G,D,F,B,D,A,A,Hb E trait
+540,C,G,D,D,B,D,A,A,Hb E trait
+541,B,E,A,A,C,G,A,A,Hb E Homozygote
+542,C,G,D,E,A,D,A,A,Hb E trait
+543,D,H,D,F,A,D,A,A,Hb E trait
+544,C,G,E,E,A,D,A,A,Hb E trait
+545,B,C,A,A,C,G,A,A,Hb E Homozygote
+546,B,D,K,D,A,A,A,A,Alpha thal1 trait
+547,B,E,K,E,A,A,A,A,Alpha thal1 trait
+548,D,G,D,F,A,D,A,A,Hb E trait
+549,C,E,D,F,A,D,A,A,Hb E trait
+550,C,B,A,B,B,G,A,A,Hb E Homozygote
+551,C,D,J,E,A,A,A,A,Alpha thal1 trait
+552,D,I,D,E,A,D,A,A,Hb E trait
+553,C,G,K,D,A,A,A,A,Alpha thal trait
+554,C,H,K,E,A,A,A,A,Alpha thal trait
+555,B,B,F,E,A,D,A,A,Hb E trait
+556,C,J,I,E,A,A,A,A,Normal Hb type
+557,B,G,D,E,A,D,A,A,Hb E trait
+558,C,G,I,E,C,A,A,A,Alpha thal trait
+559,C,H,I,D,A,A,A,A,Alpha thal trait
+560,C,G,D,E,A,D,A,A,Hb E trait
+561,C,G,D,D,A,D,A,A,Hb E trait
+562,C,F,D,E,A,D,A,A,Hb E trait
+563,C,I,F,E,A,D,A,A,Hb E trait
+564,C,H,D,D,A,D,A,A,Hb E trait
+565,C,D,A,B,B,G,A,A,Hb E Homozygote
+566,C,I,E,E,A,D,A,A,Hb E trait
+567,D,C,A,A,B,G,A,A,Hb E Homozygote
+568,C,G,D,D,C,D,A,A,Hb E trait
+569,B,I,K,E,A,A,A,A,Normal Hb type
+570,C,I,D,D,A,D,A,A,Hb E trait
+571,C,I,D,E,C,D,A,A,Hb E trait
+572,C,G,D,F,A,D,A,A,Hb E trait
+573,C,I,D,E,A,D,A,A,Hb E trait
+574,C,I,F,D,A,D,A,A,Hb E trait
+575,C,I,D,F,B,D,A,A,Hb E trait
+576,C,D,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+577,C,C,F,F,A,D,A,A,Hb E trait
+578,C,G,K,E,A,A,A,A,Alpha thal trait
+579,C,K,K,E,A,A,A,A,Normal Hb type
+580,C,J,K,E,A,A,A,A,Normal Hb type
+581,C,H,D,E,B,D,A,A,Hb E trait
+582,C,G,E,F,A,D,A,A,Hb E trait
+583,D,H,K,D,A,A,A,A,Alpha thal trait
+584,D,G,K,E,A,A,A,A,Alpha thal trait
+585,D,H,I,E,A,A,A,A,Alpha thal trait
+586,D,F,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+587,B,C,A,C,B,G,A,A,Hb E Homozygote
+588,C,F,E,E,A,D,A,A,Hb E trait
+589,B,H,D,F,A,D,A,A,Hb E trait
+590,C,H,I,E,A,A,A,A,Alpha thal trait
+591,C,G,D,D,C,D,A,A,Hb E trait
+592,D,G,K,E,A,A,A,A,Alpha thal trait
+593,C,G,E,F,A,D,A,A,Hb E trait
+594,B,I,D,F,A,D,A,A,Hb E trait
+595,C,G,D,E,A,D,A,A,Hb E trait
+596,B,G,D,D,A,D,A,A,Hb E trait
+597,C,F,E,D,A,D,A,A,Hb E trait
+598,D,G,D,E,A,D,A,A,Hb E trait
+599,B,G,K,E,B,A,B,A,Hb CS trait
+600,C,J,D,D,A,D,A,A,Hb E trait
+601,C,F,D,F,A,D,A,A,Hb E trait
+602,C,G,D,F,A,D,A,A,Hb E trait
+603,C,H,D,F,B,D,A,A,Hb E trait
+604,C,G,D,F,A,D,A,A,Hb E trait
+605,C,I,F,F,A,D,A,A,Hb E trait
+606,C,F,D,F,A,D,A,A,Hb E trait
+607,C,H,D,E,A,D,A,A,Hb E trait
+608,C,I,D,F,B,D,A,A,Hb E trait
+609,B,G,K,E,A,A,A,A,Alpha thal trait
+610,B,B,K,G,B,A,A,A,Beta thal trait
+611,B,E,K,D,A,A,A,A,Alpha thal1 trait
+612,C,G,D,D,A,D,A,A,Hb E trait
+613,C,F,D,F,A,D,A,A,Hb E trait
+614,B,D,A,A,C,G,A,A,Hb E Homozygote
+615,C,B,A,A,A,G,A,A,Hb E Homozygote
+616,B,B,D,F,A,D,A,A,Hb E trait
+617,B,I,D,F,A,D,A,A,Hb E trait
+618,C,F,D,F,A,D,A,A,Hb E trait
+619,B,F,D,D,A,D,A,A,Hb E trait
+620,C,H,K,D,A,A,A,A,Alpha thal trait
+621,C,F,I,E,A,A,A,A,Alpha thal1 trait
+622,C,G,E,D,A,D,A,A,Hb E trait
+623,C,K,D,E,A,D,A,A,Hb E trait
+624,B,F,D,F,A,D,A,A,Hb E trait
+625,C,G,K,E,A,A,A,A,Alpha thal trait
+626,C,B,A,A,A,G,A,A,Hb E Homozygote
+627,C,D,K,D,A,A,A,A,Alpha thal1 trait
+628,C,G,D,E,B,D,A,A,Hb E trait
+629,C,G,D,F,A,D,A,A,Hb E trait
+630,C,G,D,E,C,D,A,A,Hb E trait
+631,C,D,K,E,A,A,A,A,Alpha thal1 trait
+632,C,F,E,F,A,D,A,A,Hb E trait
+633,B,A,A,A,B,G,A,A,Hb E Homozygote
+634,C,D,K,D,A,A,A,A,Alpha thal1 trait
+635,C,G,D,D,A,D,A,A,Hb E trait
+636,C,D,F,E,C,C,A,A,Hb E trait + Alpha thal1 trait
+637,B,D,K,G,A,A,A,A,Beta thal trait
+638,C,H,K,D,A,A,A,A,Alpha thal trait
+639,C,H,K,E,A,A,A,A,Alpha thal trait
+640,C,H,E,D,A,D,A,A,Hb E trait
+641,D,F,D,D,A,D,A,A,Hb E trait
+642,B,B,I,F,A,A,A,A,Beta thal trait
+643,C,G,K,D,A,A,A,A,Alpha thal trait
+644,B,G,E,E,A,D,A,A,Hb E trait
+645,C,H,D,F,A,D,A,A,Hb E trait
+646,C,H,D,D,B,D,A,A,Hb E trait
+647,C,B,A,C,B,G,A,A,Hb E Homozygote
+648,C,G,D,E,A,D,A,A,Hb E trait
+649,C,F,J,E,A,A,A,A,Alpha thal1 trait
+650,C,D,I,D,A,A,A,A,Alpha thal1 trait
+651,B,F,F,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+652,C,H,J,F,A,D,A,A,Hb E trait
+653,C,H,K,E,A,A,A,A,Alpha thal trait
+654,C,K,I,E,C,A,A,A,Normal Hb type
+655,C,I,E,D,A,D,A,A,Hb E trait
+656,C,G,I,E,A,A,A,A,Alpha thal trait
+657,C,D,J,E,A,A,A,A,Alpha thal1 trait
+658,C,F,D,D,A,D,A,A,Hb E trait
+659,D,I,D,D,A,D,A,A,Hb E trait
+660,C,I,D,F,B,D,A,A,Hb E trait
+661,D,J,D,E,B,D,A,A,Hb E trait
+662,B,G,I,E,A,A,A,A,Alpha thal trait
+663,C,I,D,E,B,D,A,A,Hb E trait
+664,C,I,E,D,A,D,A,A,Hb E trait
+665,C,I,D,E,B,D,A,A,Hb E trait
+666,C,E,E,E,A,D,A,A,Hb E trait
+667,C,F,E,E,A,D,A,A,Hb E trait
+668,C,F,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+669,D,F,D,E,A,D,A,A,Hb E trait
+670,B,D,K,E,A,A,A,A,Alpha thal1 trait
+671,C,G,K,E,A,A,A,A,Alpha thal trait
+672,C,D,A,C,C,G,A,A,Hb E Homozygote
+673,C,F,D,D,A,D,A,A,Hb E trait
+674,C,I,D,E,A,D,A,A,Hb E trait
+675,C,G,K,D,A,A,A,A,Alpha thal trait
+676,C,G,D,E,A,D,A,A,Hb E trait
+677,C,F,E,F,A,D,A,A,Hb E trait
+678,C,H,K,D,A,A,A,A,Alpha thal trait
+679,C,J,K,E,A,A,A,A,Normal Hb type
+680,C,D,A,C,C,G,A,A,Hb E Homozygote
+681,C,I,I,E,A,A,A,A,Normal Hb type
+682,C,I,D,E,A,D,A,A,Hb E trait
+683,C,F,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+684,B,D,E,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+685,D,F,C,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+686,B,G,D,D,A,D,A,A,Hb E trait
+687,D,G,D,D,A,D,A,A,Hb E trait
+688,C,G,J,F,B,D,A,A,Hb E trait
+689,C,D,I,E,A,A,A,A,Alpha thal1 trait
+690,C,G,D,F,B,D,A,A,Hb E trait
+691,B,G,D,E,A,D,A,A,Hb E trait
+692,C,D,A,C,B,G,A,A,Hb E Homozygote
+693,C,D,I,D,A,A,A,A,Alpha thal1 trait
+694,C,G,D,E,A,D,A,A,Hb E trait
+695,C,D,A,C,B,G,A,A,Hb E Homozygote
+696,D,G,D,D,A,D,A,A,Hb E trait
+697,C,G,D,D,A,D,A,A,Hb E trait
+698,C,C,K,D,A,A,A,A,Alpha thal1 trait
+699,C,G,I,D,A,A,A,A,Alpha thal trait
+700,C,C,K,D,A,A,A,A,Alpha thal1 trait
+701,C,G,D,F,A,D,A,A,Hb E trait
+702,D,F,K,E,A,A,A,A,Alpha thal1 trait
+703,C,F,D,D,A,D,A,A,Hb E trait
+704,B,D,I,G,B,A,A,A,Beta thal trait
+705,C,F,D,E,A,D,A,A,Hb E trait
+706,B,H,E,D,A,D,A,A,Hb E trait
+707,C,A,A,C,B,G,A,A,Hb E Homozygote
+708,C,G,E,F,B,D,A,A,Hb E trait
+709,C,E,K,E,A,A,A,A,Alpha thal1 trait
+710,C,E,K,D,A,A,A,A,Alpha thal1 trait
+711,C,G,D,D,A,D,A,A,Hb E trait
+712,C,F,D,D,A,D,A,A,Hb E trait
+713,D,H,D,E,B,D,A,A,Hb E trait
+714,B,G,D,F,B,D,A,A,Hb E trait
+715,C,F,K,E,A,A,A,A,Alpha thal1 trait
+716,C,H,K,E,A,A,A,A,Alpha thal trait
+717,B,E,K,D,B,A,A,A,Alpha thal1 trait
+718,C,G,D,E,A,D,A,A,Hb E trait
+719,C,F,K,D,A,A,A,A,Alpha thal1 trait
+720,C,E,K,D,A,A,A,A,Alpha thal1 trait
+721,B,E,G,D,C,C,A,A,Hb E trait + Alpha thal1 trait
+722,C,I,D,E,B,D,A,A,Hb E trait
+723,D,G,D,F,A,D,A,A,Hb E trait
+724,B,G,D,E,A,D,A,A,Hb E trait
+725,C,D,A,A,B,G,A,A,Hb E Homozygote
+726,D,H,I,E,A,A,A,A,Alpha thal trait
+727,C,I,D,F,A,D,A,A,Hb E trait
+728,B,B,K,E,A,A,A,A,Alpha thal1 trait
+729,D,K,I,E,A,A,A,A,Normal Hb type
+730,C,H,E,D,A,D,A,A,Hb E trait
+731,C,G,K,D,A,A,A,A,Alpha thal trait
+732,D,G,D,E,A,D,A,A,Hb E trait
+733,D,I,E,F,A,D,A,A,Hb E trait
+734,C,G,K,D,A,A,A,A,Alpha thal trait
+735,B,I,D,D,B,D,A,A,Hb E trait
+736,C,K,I,E,A,A,A,A,Normal Hb type
+737,B,G,D,E,B,D,A,A,Hb E trait
+738,C,I,D,E,A,D,A,A,Hb E trait
+739,C,G,D,E,A,D,A,A,Hb E trait
+740,B,D,I,E,A,A,A,A,Alpha thal1 trait
+741,C,E,I,D,A,A,A,A,Alpha thal1 trait
+742,C,G,D,D,B,D,A,A,Hb E trait
+743,C,G,E,D,B,D,A,A,Hb E trait
+744,C,D,D,F,A,D,A,A,Hb E trait
+745,B,B,K,D,B,A,A,B,Hb H disease
+746,C,K,K,E,A,A,A,A,Normal Hb type
+747,B,D,K,D,A,A,A,A,Alpha thal1 trait
+748,C,F,D,D,A,D,A,A,Hb E trait
+749,C,D,I,E,A,A,B,A,Hb CS trait
+750,C,J,D,F,B,D,A,A,Hb E trait
+751,B,G,D,E,A,D,A,A,Hb E trait
+752,B,I,E,D,A,D,A,A,Hb E trait
+753,C,G,D,D,A,D,A,A,Hb E trait
+754,C,E,K,D,A,A,A,A,Alpha thal1 trait
+755,C,K,J,E,A,A,A,A,Normal Hb type
+756,D,K,H,E,A,A,A,A,Normal Hb type
+757,C,G,D,F,B,D,A,A,Hb E trait
+758,C,D,A,B,B,G,A,A,Hb E Homozygote
+759,B,D,K,G,B,A,A,A,Beta thal trait
+760,C,D,D,E,A,D,A,A,Hb E trait
+761,C,I,D,D,A,D,A,A,Hb E trait
+762,C,F,I,D,B,A,A,A,Alpha thal1 trait
+763,C,I,D,E,A,D,A,A,Hb E trait
+764,C,I,E,F,A,D,A,A,Hb E trait
+765,C,D,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+766,B,D,E,F,B,C,A,A,Hb E trait + Alpha thal1 trait
+767,C,F,E,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+768,C,F,A,C,C,G,A,A,Hb E Homozygote
+769,C,D,A,B,A,G,A,A,Hb E Homozygote
+770,C,H,D,F,A,D,A,A,Hb E trait
+771,D,G,D,E,A,D,A,A,Hb E trait
+772,B,D,G,F,A,B,A,A,Hb E trait + Alpha thal1 trait
+773,C,D,K,D,A,A,A,A,Alpha thal1 trait
+774,D,I,D,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+775,B,G,E,D,A,D,A,A,Hb E trait
+776,C,G,D,F,B,D,A,A,Hb E trait
+777,B,D,K,D,A,A,A,A,Alpha thal1 trait
+778,C,F,K,E,A,A,A,A,Alpha thal1 trait
+779,C,G,D,D,A,D,A,A,Hb E trait
+780,C,F,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+781,B,F,K,E,A,A,A,A,Alpha thal1 trait
+782,C,I,D,D,A,D,A,A,Hb E trait
+783,B,D,K,D,A,A,A,A,Alpha thal1 trait
+784,C,G,G,D,A,A,A,A,Alpha thal trait
+785,C,F,D,D,A,D,A,A,Hb E trait
+786,C,G,D,E,A,D,A,A,Hb E trait
+787,D,G,D,F,A,D,A,A,Hb E trait
+788,D,G,E,E,A,D,A,A,Hb E trait
+789,C,G,E,E,A,D,A,A,Hb E trait
+790,C,I,E,D,A,D,A,A,Hb E trait
+791,C,J,D,D,A,D,A,A,Hb E trait
+792,C,G,K,D,A,A,A,A,Alpha thal trait
+793,C,H,I,E,A,A,A,A,Alpha thal trait
+794,C,I,F,F,A,D,A,A,Hb E trait
+795,B,F,K,E,A,A,A,A,Alpha thal1 trait
+796,D,F,D,D,A,D,A,A,Hb E trait
+797,C,I,D,E,A,D,A,A,Hb E trait
+798,D,I,K,E,A,A,A,A,Normal Hb type
+799,C,K,K,E,A,A,A,A,Normal Hb type
+800,B,G,D,E,A,D,A,A,Hb E trait
+801,C,F,D,F,B,D,A,A,Hb E trait
+802,C,D,K,D,A,A,A,A,Alpha thal1 trait
+803,C,I,E,E,A,D,A,A,Hb E trait
+804,B,D,K,D,A,A,A,A,Alpha thal1 trait
+805,C,H,D,F,A,D,A,A,Hb E trait
+806,B,I,D,F,B,D,A,A,Hb E trait
+807,B,C,K,E,A,A,A,A,Alpha thal1 trait
+808,C,H,I,E,A,A,A,A,Alpha thal trait
+809,C,H,K,E,A,A,A,A,Alpha thal trait
+810,C,C,A,B,C,G,A,A,Hb E Homozygote
+811,C,B,A,C,B,G,A,A,Hb E Homozygote
+812,C,I,D,E,A,D,A,A,Hb E trait
+813,C,J,D,E,C,D,A,A,Hb E trait
+814,C,G,I,E,A,A,A,A,Alpha thal trait
+815,B,D,F,D,B,C,A,A,Hb E trait + Alpha thal1 trait
+816,B,G,K,E,A,A,A,A,Alpha thal trait
+817,C,F,D,D,A,D,A,A,Hb E trait
+818,C,I,D,D,A,D,A,A,Hb E trait
+819,C,G,D,D,A,D,A,A,Hb E trait
+820,C,I,E,E,A,D,A,A,Hb E trait
+821,B,C,A,A,B,G,A,A,Hb E Homozygote
+822,B,E,D,F,A,D,A,A,Hb E trait
+823,C,I,D,D,A,D,A,A,Hb E trait
+824,B,G,D,D,B,D,A,A,Hb E trait
+825,C,J,I,E,A,A,A,A,Normal Hb type
+826,C,G,I,D,A,A,A,A,Alpha thal trait
+827,C,G,D,E,A,D,A,A,Hb E trait
+828,D,D,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+829,C,H,D,D,A,D,A,A,Hb E trait
+830,C,F,D,F,A,D,A,A,Hb E trait
+831,B,E,A,A,C,G,A,A,Hb E Homozygote
+832,C,I,D,D,A,D,A,A,Hb E trait
+833,B,D,A,B,B,G,A,A,Hb E Homozygote
+834,C,E,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+835,C,D,D,E,C,D,A,A,Hb E trait
+836,C,D,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+837,C,K,D,F,B,D,A,A,Hb E trait
+838,C,G,E,E,A,D,A,A,Hb E trait
+839,C,G,D,D,A,D,A,A,Hb E trait
+840,C,F,D,E,B,D,A,A,Hb E trait
+841,C,I,I,E,A,A,A,A,Normal Hb type
+842,D,G,D,E,A,D,A,A,Hb E trait
+843,B,I,K,E,A,A,A,A,Normal Hb type
+844,C,F,F,E,A,D,A,A,Hb E trait
+845,C,F,E,E,A,D,A,A,Hb E trait
+846,B,D,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+847,C,H,K,D,A,A,A,A,Alpha thal trait
+848,D,G,E,F,A,D,A,A,Hb E trait
+849,B,C,A,B,B,G,A,A,Hb E Homozygote
+850,C,I,D,D,B,D,A,A,Hb E trait
+851,C,A,A,A,B,G,A,A,Hb E Homozygote
+852,B,I,D,E,B,D,A,A,Hb E trait
+853,B,D,A,A,B,G,A,A,Hb E Homozygote
+854,C,I,D,F,B,D,A,A,Hb E trait
+855,C,H,K,D,A,A,A,A,Alpha thal trait
+856,B,D,K,E,A,A,A,A,Alpha thal1 trait
+857,C,I,D,D,A,D,A,A,Hb E trait
+858,C,F,E,D,A,D,A,A,Hb E trait
+859,C,B,K,F,A,A,A,A,Beta thal trait
+860,C,F,K,D,A,A,A,A,Alpha thal1 trait
+861,C,H,K,E,A,A,A,A,Alpha thal trait
+862,C,E,K,D,A,A,A,A,Alpha thal1 trait
+863,C,K,K,E,A,A,A,A,Normal Hb type
+864,B,D,K,E,A,A,A,A,Alpha thal1 trait
+865,C,I,D,E,A,D,A,A,Hb E trait
+866,B,G,K,D,A,A,A,A,Alpha thal trait
+867,C,G,D,D,B,D,A,A,Hb E trait
+868,C,I,J,E,A,D,A,A,Hb E trait
+869,C,G,K,D,B,A,A,A,Alpha thal trait
+870,C,J,D,F,A,D,A,A,Hb E trait
+871,B,F,D,D,B,D,A,A,Hb E trait
+872,C,C,A,A,B,G,A,A,Hb E Homozygote
+873,C,J,K,E,A,A,A,A,Normal Hb type
+874,C,I,D,F,A,D,A,A,Hb E trait
+875,C,C,K,D,A,A,A,A,Alpha thal1 trait
+876,C,F,D,E,A,D,A,A,Hb E trait
+877,B,F,D,E,A,D,A,A,Hb E trait
+878,C,G,D,E,A,D,A,A,Hb E trait
+879,C,G,K,E,A,A,A,A,Alpha thal trait
+880,C,K,K,E,A,A,A,A,Normal Hb type
+881,B,D,K,D,A,A,A,A,Alpha thal1 trait
+882,B,I,D,E,B,D,A,A,Hb E trait
+883,C,H,D,F,A,D,A,A,Hb E trait
+884,B,B,A,A,C,G,A,A,Hb E Homozygote
+885,B,J,E,D,A,D,A,A,Hb E trait
+886,C,I,D,F,B,D,A,A,Hb E trait
+887,C,G,D,E,A,D,A,A,Hb E trait
+888,B,B,A,B,B,G,A,A,Hb E Homozygote
+889,C,I,D,F,A,D,A,A,Hb E trait
+890,C,G,J,E,A,D,A,A,Hb E trait
+891,C,F,D,D,A,D,A,A,Hb E trait
+892,C,D,K,D,A,A,A,A,Alpha thal1 trait
+893,C,E,K,E,A,A,A,A,Alpha thal1 trait
+894,B,G,D,F,B,D,A,A,Hb E trait
+895,D,G,I,D,A,A,A,A,Alpha thal trait
+896,B,D,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+897,D,G,K,E,A,A,A,A,Alpha thal trait
+898,B,I,D,D,A,D,A,A,Hb E trait
+899,B,F,F,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+900,C,D,A,B,B,G,A,A,Hb E Homozygote
+901,C,G,K,D,A,A,A,A,Alpha thal trait
+902,C,B,A,A,A,G,A,A,Hb E Homozygote
+903,B,D,A,A,C,G,A,A,Hb E Homozygote
+904,B,J,D,E,B,D,A,A,Hb E trait
+905,B,G,D,E,A,D,A,A,Hb E trait
+906,B,I,D,F,B,D,A,A,Hb E trait
+907,C,D,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+908,C,G,K,D,A,A,A,A,Alpha thal trait
+909,C,G,D,E,A,D,A,A,Hb E trait
+910,C,G,D,E,A,D,A,A,Hb E trait
+911,C,G,D,F,B,D,A,A,Hb E trait
+912,C,I,F,D,A,D,A,A,Hb E trait
+913,B,I,D,E,B,D,A,A,Hb E trait
+914,B,F,D,E,A,D,A,A,Hb E trait
+915,C,E,K,E,A,A,A,A,Alpha thal1 trait
+916,C,G,D,E,B,D,A,A,Hb E trait
+917,C,D,F,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+918,C,G,D,E,A,D,A,A,Hb E trait
+919,B,G,K,E,A,A,A,A,Alpha thal trait
+920,C,H,D,D,A,D,A,A,Hb E trait
+921,B,D,I,E,A,A,A,A,Alpha thal1 trait
+922,D,H,K,E,A,A,A,A,Alpha thal trait
+923,C,I,I,E,A,A,A,A,Normal Hb type
+924,C,E,F,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+925,C,A,A,C,B,G,A,A,Hb E Homozygote
+926,B,G,H,E,C,A,A,A,Alpha thal trait
+927,C,I,D,F,C,D,A,A,Hb E trait
+928,B,E,E,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+929,C,D,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+930,C,F,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+931,C,H,D,D,A,D,A,A,Hb E trait
+932,D,C,K,D,A,A,A,A,Alpha thal1 trait
+933,C,H,K,E,A,A,A,A,Alpha thal trait
+934,B,G,D,D,A,D,A,A,Hb E trait
+935,C,D,I,E,A,A,A,A,Alpha thal1 trait
+936,A,D,I,E,A,A,A,A,Alpha thal1 trait
+937,C,D,A,C,A,G,A,A,Hb E Homozygote
+938,C,F,H,D,A,A,A,A,Alpha thal1 trait
+939,C,I,D,D,A,D,A,A,Hb E trait
+940,C,G,D,D,A,D,A,A,Hb E trait
+941,C,F,D,D,A,D,A,A,Hb E trait
+942,B,D,A,A,A,G,A,A,Hb E Homozygote
+943,C,H,D,F,B,D,A,A,Hb E trait
+944,C,F,D,F,A,D,A,A,Hb E trait
+945,C,I,E,E,A,D,A,A,Hb E trait
+946,C,G,D,D,A,D,A,A,Hb E trait
+947,B,G,D,D,A,D,A,A,Hb E trait
+948,C,D,E,D,A,D,A,A,Hb E trait
+949,C,I,D,E,C,D,A,A,Hb E trait
+950,B,F,J,F,A,D,A,A,Hb E trait
+951,C,G,D,E,B,D,A,A,Hb E trait
+952,C,G,D,E,A,D,A,A,Hb E trait
+953,B,D,A,C,B,G,A,A,Hb E Homozygote
+954,C,G,D,D,A,D,A,A,Hb E trait
+955,C,J,D,F,A,D,A,A,Hb E trait
+956,C,H,D,D,C,D,A,A,Hb E trait
+957,C,G,D,F,A,D,A,A,Hb E trait
+958,C,D,I,E,A,A,A,A,Alpha thal1 trait
+959,C,D,D,F,A,D,A,A,Hb E trait
+960,C,G,D,D,C,C,A,A,Hb E trait + Alpha thal1 trait
+961,B,H,K,E,A,A,A,A,Alpha thal trait
+962,C,F,K,E,A,A,A,A,Alpha thal1 trait
+963,C,I,D,E,A,D,A,A,Hb E trait
+964,C,I,E,F,A,D,A,A,Hb E trait
+965,B,D,F,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+966,C,H,D,F,A,D,A,A,Hb E trait
+967,D,K,K,E,A,A,A,A,Normal Hb type
+968,C,G,I,E,B,A,A,A,Alpha thal trait
+969,A,D,A,B,F,A,A,A,FA2
+970,C,I,D,F,A,D,A,A,Hb E trait
+971,C,G,E,E,A,D,A,A,Hb E trait
+972,B,F,D,E,A,D,A,A,Hb E trait
+973,C,J,D,E,B,D,A,A,Hb E trait
+974,C,G,D,D,A,D,A,A,Hb E trait
+975,C,G,I,D,A,A,A,A,Alpha thal trait
+976,C,D,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+977,C,I,D,F,C,D,A,A,Hb E trait
+978,C,K,K,E,A,A,A,A,Normal Hb type
+979,C,E,E,E,A,D,A,A,Hb E trait
+980,C,G,D,E,A,D,A,A,Hb E trait
+981,B,H,D,E,B,D,A,A,Hb E trait
+982,B,D,A,A,C,G,A,A,Hb E Homozygote
+983,B,I,E,E,A,D,A,A,Hb E trait
+984,C,G,D,E,A,D,A,A,Hb E trait
+985,C,J,D,D,A,D,A,A,Hb E trait
+986,C,G,D,F,A,D,A,A,Hb E trait
+987,B,G,D,D,A,D,A,A,Hb E trait
+988,B,K,D,F,A,D,A,A,Hb E trait
+989,D,K,I,E,A,A,A,A,Normal Hb type
+990,C,F,D,E,A,D,A,A,Hb E trait
+991,B,F,I,D,A,A,A,A,Alpha thal1 trait
+992,C,E,I,E,A,A,A,A,Alpha thal1 trait
+993,D,F,D,F,A,D,A,A,Hb E trait
+994,C,I,D,F,A,D,A,A,Hb E trait
+995,C,D,A,A,B,G,A,A,Hb E Homozygote
+996,C,G,D,E,A,D,A,A,Hb E trait
+997,B,E,I,G,B,A,A,A,Beta thal trait
+998,C,G,K,D,A,A,A,A,Alpha thal trait
+999,C,D,F,F,C,C,A,A,Hb E trait + Alpha thal1 trait
+1000,B,B,A,B,B,G,A,A,Hb E Homozygote
+1001,C,F,D,F,A,D,A,A,Hb E trait
+1002,B,D,K,D,A,A,A,A,Alpha thal1 trait
+1003,C,G,K,D,A,A,A,A,Alpha thal trait
+1004,C,G,E,D,A,D,A,A,Hb E trait
+1005,A,A,H,F,B,B,A,A,Hb E trait + Alpha thal1 trait
+1006,D,G,D,F,A,D,A,A,Hb E trait
+1007,C,D,E,D,B,C,A,A,Hb E trait + Alpha thal1 trait
+1008,B,B,A,C,C,G,A,A,Hb E Homozygote
+1009,D,F,D,E,B,D,A,A,Hb E trait
+1010,C,K,K,E,A,A,A,A,Normal Hb type
+1011,C,I,D,F,A,D,A,A,Hb E trait
+1012,C,G,D,D,A,D,A,A,Hb E trait
+1013,C,K,J,E,A,A,A,A,Normal Hb type
+1014,C,G,D,F,A,D,A,A,Hb E trait
+1015,C,G,D,F,A,D,A,A,Hb E trait
+1016,C,K,K,E,A,A,A,A,Normal Hb type
+1017,B,I,D,D,B,D,A,A,Hb E trait
+1018,B,H,K,E,A,A,A,A,Alpha thal trait
+1019,C,J,E,F,A,D,A,A,Hb E trait
+1020,C,F,D,D,C,D,A,A,Hb E trait
+1021,C,G,D,D,A,D,A,A,Hb E trait
+1022,C,F,D,D,A,D,A,A,Hb E trait
+1023,B,G,K,E,A,A,A,A,Alpha thal trait
+1024,C,A,D,D,A,D,A,A,Hb E trait
+1025,C,G,D,E,A,D,A,A,Hb E trait
+1026,C,E,D,F,A,D,A,A,Hb E trait
+1027,C,D,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+1028,C,G,D,E,A,D,A,A,Hb E trait
+1029,B,B,K,G,A,A,A,A,Beta thal trait
+1030,C,F,E,E,B,D,A,A,Hb E trait
+1031,C,I,D,F,A,D,A,A,Hb E trait
+1032,C,H,I,D,B,A,A,A,Alpha thal trait
+1033,D,H,K,D,A,A,A,A,Alpha thal trait
+1034,C,I,E,E,A,D,A,A,Hb E trait
+1035,C,G,D,D,A,D,A,A,Hb E trait
+1036,C,C,K,E,A,A,A,A,Alpha thal1 trait
+1037,C,D,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+1038,C,G,D,E,A,D,A,A,Hb E trait
+1039,C,E,K,D,A,A,A,A,Alpha thal1 trait
+1040,B,E,I,E,A,A,A,A,Alpha thal1 trait
+1041,C,F,K,E,A,A,A,A,Alpha thal1 trait
+1042,D,J,I,E,A,A,A,A,Normal Hb type
+1043,C,F,A,C,C,G,A,A,Hb E Homozygote
+1044,C,G,I,E,B,A,A,A,Alpha thal trait
+1045,C,D,A,B,A,G,A,A,Hb E Homozygote
+1046,C,J,D,D,A,D,A,A,Hb E trait
+1047,C,F,D,F,A,D,A,A,Hb E trait
+1048,C,H,K,D,A,A,A,A,Alpha thal trait
+1049,C,I,F,D,A,D,A,A,Hb E trait
+1050,A,D,A,B,F,A,A,A,FA2
+1051,B,E,A,C,B,G,A,A,Hb E Homozygote
+1052,C,D,K,E,A,A,A,A,Alpha thal1 trait
+1053,C,G,K,D,A,A,A,A,Alpha thal trait
+1054,C,H,D,F,B,D,A,A,Hb E trait
+1055,C,D,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+1056,C,H,D,D,A,D,A,A,Hb E trait
+1057,C,G,K,E,A,A,A,A,Alpha thal trait
+1058,C,E,D,F,C,D,A,A,Hb E trait
+1059,C,E,K,D,C,A,A,A,Alpha thal1 trait
+1060,C,G,D,F,C,D,A,A,Hb E trait
+1061,C,D,K,D,A,A,A,A,Alpha thal1 trait
+1062,C,I,F,E,A,D,A,A,Hb E trait
+1063,C,F,E,F,A,D,A,A,Hb E trait
+1064,B,C,I,G,B,A,A,A,Beta thal trait
+1065,D,G,D,E,A,D,A,A,Hb E trait
+1066,B,D,K,D,A,A,A,A,Alpha thal1 trait
+1067,C,H,K,D,A,A,A,A,Alpha thal trait
+1068,C,G,D,E,A,D,A,A,Hb E trait
+1069,B,G,I,E,B,A,A,A,Alpha thal trait
+1070,C,G,D,F,A,D,A,A,Hb E trait
+1071,B,D,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+1072,C,G,D,F,A,D,A,A,Hb E trait
+1073,B,C,K,D,A,A,A,A,Alpha thal1 trait
+1074,C,G,D,D,A,D,A,A,Hb E trait
+1075,C,G,D,D,A,D,A,A,Hb E trait
+1076,C,H,E,F,A,D,A,A,Hb E trait
+1077,C,G,D,F,C,D,A,A,Hb E trait
+1078,B,I,E,D,A,D,A,A,Hb E trait
+1079,C,G,D,F,A,D,A,A,Hb E trait
+1080,C,D,K,D,A,A,A,A,Alpha thal1 trait
+1081,C,F,I,D,A,A,A,A,Alpha thal1 trait
+1082,C,H,K,D,A,A,A,A,Alpha thal trait
+1083,C,H,D,E,A,D,A,A,Hb E trait
+1084,C,G,J,D,A,A,A,A,Alpha thal trait
+1085,C,G,D,E,A,D,A,A,Hb E trait
+1086,D,E,I,E,A,A,A,A,Alpha thal1 trait
+1087,C,I,D,F,A,D,A,A,Hb E trait
+1088,C,I,D,F,A,D,A,A,Hb E trait
+1089,D,G,D,D,A,D,A,A,Hb E trait
+1090,C,E,A,B,A,G,A,A,Hb E Homozygote
+1091,C,C,H,F,C,A,A,A,Beta thal trait
+1092,D,H,E,E,A,D,A,A,Hb E trait
+1093,C,D,I,D,A,A,A,A,Alpha thal1 trait
+1094,B,B,A,B,A,G,A,A,Hb E Homozygote
+1095,C,I,D,D,A,D,A,A,Hb E trait
+1096,C,D,I,E,A,A,A,A,Alpha thal1 trait
+1097,B,I,D,E,A,D,A,A,Hb E trait
+1098,C,G,D,D,A,D,A,A,Hb E trait
+1099,C,G,D,D,A,D,A,A,Hb E trait
+1100,D,H,D,F,A,D,A,A,Hb E trait
+1101,C,E,D,D,A,D,A,A,Hb E trait
+1102,C,E,D,F,A,D,A,A,Hb E trait
+1103,C,E,I,D,B,A,A,A,Alpha thal1 trait
+1104,C,G,G,F,A,D,A,A,Hb E trait
+1105,D,H,D,F,A,D,A,A,Hb E trait
+1106,C,I,D,F,C,D,A,A,Hb E trait
+1107,C,J,D,F,A,D,A,A,Hb E trait
+1108,D,G,D,D,A,D,A,A,Hb E trait
+1109,D,H,I,D,A,A,A,A,Alpha thal trait
+1110,C,D,E,D,A,D,A,A,Hb E trait
+1111,C,C,I,G,A,A,A,A,Beta thal trait
+1112,C,H,I,D,B,A,A,A,Alpha thal trait
+1113,C,I,D,E,A,D,A,A,Hb E trait
+1114,B,G,K,E,C,A,A,A,Alpha thal trait
+1115,C,D,A,A,B,G,A,A,Hb E Homozygote
+1116,C,H,D,D,C,D,A,A,Hb E trait
+1117,C,D,K,D,A,A,A,A,Alpha thal1 trait
+1118,C,G,J,D,B,D,A,A,Hb E trait
+1119,C,H,K,D,C,A,A,A,Alpha thal trait
+1120,C,G,K,D,A,A,A,A,Alpha thal trait
+1121,D,J,D,D,A,D,A,A,Hb E trait
+1122,C,F,D,D,A,D,A,A,Hb E trait
+1123,C,G,D,D,A,D,A,A,Hb E trait
+1124,C,G,D,E,A,D,A,A,Hb E trait
+1125,C,F,K,E,A,A,B,A,Hb CS trait
+1126,C,J,D,E,B,D,A,A,Hb E trait
+1127,C,F,D,D,A,D,A,A,Hb E trait
+1128,C,H,D,F,A,D,A,A,Hb E trait
+1129,C,I,D,D,A,D,A,A,Hb E trait
+1130,C,I,D,D,A,D,A,A,Hb E trait
+1131,C,F,D,D,A,D,A,A,Hb E trait
+1132,C,J,D,E,A,D,A,A,Hb E trait
+1133,B,E,K,D,A,A,A,A,Alpha thal1 trait
+1134,C,G,E,E,A,D,A,A,Hb E trait
+1135,B,F,I,D,B,A,A,A,Alpha thal1 trait
+1136,C,E,K,D,A,A,A,A,Alpha thal1 trait
+1137,B,G,D,E,A,D,A,A,Hb E trait
+1138,D,H,D,D,A,D,A,A,Hb E trait
+1139,C,G,D,D,A,D,A,A,Hb E trait
+1140,C,G,K,E,A,A,A,A,Alpha thal trait
+1141,C,C,E,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+1142,C,D,A,B,B,G,A,A,Hb E Homozygote
+1143,C,J,D,E,B,D,A,A,Hb E trait
+1144,D,H,I,D,A,A,A,A,Alpha thal trait
+1145,C,I,D,E,A,D,A,A,Hb E trait
+1146,C,E,E,D,B,C,A,A,Hb E trait + Alpha thal1 trait
+1147,C,G,K,E,A,A,A,A,Alpha thal trait
+1148,C,I,J,D,A,D,A,A,Hb E trait
+1149,C,G,D,E,A,D,A,A,Hb E trait
+1150,C,H,D,E,A,D,A,A,Hb E trait
+1151,C,H,K,E,A,A,A,A,Alpha thal trait
+1152,C,G,F,E,A,D,A,A,Hb E trait
+1153,C,K,I,E,A,A,A,A,Normal Hb type
+1154,C,G,I,D,A,A,A,A,Alpha thal trait
+1155,C,C,I,G,A,A,A,A,Beta thal trait
+1156,B,C,H,F,C,A,A,A,Beta thal trait
+1157,C,F,G,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+1158,B,D,K,D,A,A,A,A,Alpha thal1 trait
+1159,C,D,A,A,B,G,A,A,Hb E Homozygote
+1160,C,G,K,D,A,A,A,A,Alpha thal trait
+1161,C,G,D,F,A,D,A,A,Hb E trait
+1162,C,B,A,B,C,G,A,A,Hb E Homozygote
+1163,C,F,K,D,A,A,A,A,Alpha thal1 trait
+1164,C,I,D,F,A,D,A,A,Hb E trait
+1165,C,I,E,E,A,D,A,A,Hb E trait
+1166,B,G,D,F,A,D,A,A,Hb E trait
+1167,B,G,E,E,A,D,A,A,Hb E trait
+1168,D,G,E,D,A,D,A,A,Hb E trait
+1169,C,G,D,E,A,D,A,A,Hb E trait
+1170,B,I,F,D,A,D,A,A,Hb E trait
+1171,C,F,E,E,A,D,A,A,Hb E trait
+1172,C,H,K,D,A,A,A,A,Alpha thal trait
+1173,C,I,D,D,A,D,A,A,Hb E trait
+1174,C,D,K,F,A,A,A,A,Beta thal trait
+1175,B,D,K,E,A,A,A,A,Alpha thal1 trait
+1176,B,C,I,D,A,A,A,A,Alpha thal1 trait
+1177,C,G,K,D,A,A,A,A,Alpha thal trait
+1178,C,J,D,D,A,D,A,A,Hb E trait
+1179,C,A,A,C,B,G,A,A,Hb E Homozygote
+1180,B,G,D,D,A,D,A,A,Hb E trait
+1181,C,C,A,B,A,G,A,A,Hb E Homozygote
+1182,C,F,J,D,A,D,A,A,Hb E trait
+1183,C,G,E,F,A,D,A,A,Hb E trait
+1184,B,D,A,C,B,G,A,A,Hb E Homozygote
+1185,C,G,D,D,A,D,A,A,Hb E trait
+1186,B,D,K,E,B,A,A,A,Alpha thal1 trait
+1187,C,E,D,D,A,D,A,A,Hb E trait
+1188,C,D,I,E,A,A,A,A,Alpha thal1 trait
+1189,C,G,D,E,B,D,A,A,Hb E trait
+1190,C,D,A,B,B,G,A,A,Hb E Homozygote
+1191,C,E,D,F,A,D,A,A,Hb E trait
+1192,B,C,A,A,C,G,A,A,Hb E Homozygote
+1193,C,I,D,E,C,D,A,A,Hb E trait
+1194,B,D,F,D,B,C,A,A,Hb E trait + Alpha thal1 trait
+1195,C,I,J,F,A,D,A,A,Hb E trait
+1196,C,A,A,A,A,G,A,A,Hb E Homozygote
+1197,C,I,D,F,A,D,A,A,Hb E trait
+1198,D,G,D,D,A,D,A,A,Hb E trait
+1199,B,I,D,E,A,D,A,A,Hb E trait
+1200,D,G,E,E,A,D,A,A,Hb E trait
+1201,A,F,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+1202,D,I,I,E,A,A,A,A,Normal Hb type
+1203,C,F,D,F,A,D,A,A,Hb E trait
+1204,C,G,D,D,A,D,A,A,Hb E trait
+1205,C,G,D,D,A,D,A,A,Hb E trait
+1206,B,D,A,A,B,G,A,A,Hb E Homozygote
+1207,C,G,K,E,A,A,A,A,Alpha thal trait
+1208,C,I,D,D,A,D,A,A,Hb E trait
+1209,C,D,A,A,B,G,A,A,Hb E Homozygote
+1210,D,E,D,E,A,D,A,A,Hb E trait
+1211,C,H,D,D,A,D,A,A,Hb E trait
+1212,B,C,A,C,C,G,A,A,Hb E Homozygote
+1213,C,F,D,E,A,D,A,A,Hb E trait
+1214,C,D,K,D,A,A,A,A,Alpha thal1 trait
+1215,C,F,D,E,A,D,A,A,Hb E trait
+1216,B,E,D,D,A,D,A,A,Hb E trait
+1217,C,I,F,D,A,D,A,A,Hb E trait
+1218,C,I,D,E,A,D,A,A,Hb E trait
+1219,C,J,F,D,A,D,A,A,Hb E trait
+1220,D,I,D,D,B,D,A,A,Hb E trait
+1221,C,G,D,D,A,D,A,A,Hb E trait
+1222,C,G,J,E,A,A,A,A,Alpha thal trait
+1223,B,D,I,D,A,A,A,A,Alpha thal1 trait
+1224,C,I,D,D,C,D,A,A,Hb E trait
+1225,C,B,A,C,A,G,A,A,Hb E Homozygote
+1226,C,G,E,E,A,D,A,A,Hb E trait
+1227,C,I,D,F,B,D,A,A,Hb E trait
+1228,C,C,A,B,B,G,A,A,Hb E Homozygote
+1229,C,G,D,D,A,D,A,A,Hb E trait
+1230,C,F,F,E,A,D,A,A,Hb E trait
+1231,C,G,D,E,B,D,A,A,Hb E trait
+1232,C,D,F,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+1233,C,J,D,D,B,D,A,A,Hb E trait
+1234,B,G,K,D,A,A,A,A,Alpha thal trait
+1235,C,G,K,D,A,A,A,A,Alpha thal trait
+1236,B,B,A,A,B,G,A,A,Hb E Homozygote
+1237,C,F,D,F,A,D,A,A,Hb E trait
+1238,C,G,D,E,A,D,A,A,Hb E trait
+1239,C,F,D,F,C,D,A,A,Hb E trait
+1240,C,I,D,F,A,D,A,A,Hb E trait
+1241,C,F,E,F,A,D,A,A,Hb E trait
+1242,C,E,D,E,A,D,A,A,Hb E trait
+1243,B,B,I,D,A,A,A,A,Alpha thal1 trait
+1244,B,G,K,E,A,A,A,A,Alpha thal trait
+1245,C,F,I,D,A,A,A,A,Alpha thal1 trait
+1246,C,G,K,D,A,A,A,A,Alpha thal trait
+1247,C,G,K,D,A,A,A,A,Alpha thal trait
+1248,B,E,D,E,A,D,A,A,Hb E trait
+1249,B,G,D,F,A,D,A,A,Hb E trait
+1250,D,G,K,E,A,A,A,A,Alpha thal trait
+1251,C,J,K,E,A,A,A,A,Normal Hb type
+1252,C,D,H,E,A,A,A,A,Alpha thal1 trait
+1253,C,F,D,D,A,D,A,A,Hb E trait
+1254,C,I,E,F,A,D,A,A,Hb E trait
+1255,B,B,I,F,A,A,A,A,Beta thal trait
+1256,C,I,E,F,A,D,A,A,Hb E trait
+1257,C,H,D,E,B,D,A,A,Hb E trait
+1258,C,E,D,E,C,C,A,A,Hb E trait + Alpha thal1 trait
+1259,C,F,K,D,A,A,A,A,Alpha thal1 trait
+1260,C,D,D,E,A,D,A,A,Hb E trait
+1261,A,D,I,D,B,A,A,A,Alpha thal1 trait
+1262,C,K,D,E,C,D,A,A,Hb E trait
+1263,C,H,D,D,A,D,A,A,Hb E trait
+1264,B,E,H,G,C,A,A,A,Beta thal trait
+1265,C,D,K,D,A,A,A,A,Alpha thal1 trait
+1266,B,F,K,D,A,A,A,A,Alpha thal1 trait
+1267,C,H,D,F,A,C,A,A,Hb E trait + Alpha thal1 trait
+1268,C,G,D,F,A,D,A,A,Hb E trait
+1269,A,B,K,D,A,A,A,B,Hb H disease
+1270,D,H,K,D,A,A,A,A,Alpha thal trait
+1271,B,F,J,F,A,D,A,A,Hb E trait
+1272,C,K,D,E,B,D,A,A,Hb E trait
+1273,C,F,D,E,B,D,A,A,Hb E trait
+1274,C,G,D,D,A,D,A,A,Hb E trait
+1275,C,E,D,E,A,D,A,A,Hb E trait
+1276,B,D,I,F,A,A,A,A,Beta thal trait
+1277,D,H,I,E,A,A,A,A,Alpha thal trait
+1278,B,C,A,A,A,G,A,A,Hb E Homozygote
+1279,B,G,D,F,A,D,A,A,Hb E trait
+1280,B,D,I,D,A,A,A,A,Alpha thal1 trait
+1281,D,F,D,D,A,D,A,A,Hb E trait
+1282,B,D,E,F,B,C,A,A,Hb E trait + Alpha thal1 trait
+1283,C,G,E,E,A,D,A,A,Hb E trait
+1284,C,K,E,D,A,D,A,A,Hb E trait
+1285,C,G,E,D,A,D,A,A,Hb E trait
+1286,B,H,D,D,B,D,A,A,Hb E trait
+1287,C,I,D,E,C,D,A,A,Hb E trait
+1288,C,B,A,C,A,G,A,A,Hb E Homozygote
+1289,C,E,K,E,A,A,A,A,Alpha thal1 trait
+1290,C,D,I,F,C,A,A,A,Beta thal trait
+1291,C,K,I,E,A,A,A,A,Normal Hb type
+1292,B,E,K,D,A,A,A,A,Alpha thal1 trait
+1293,B,D,A,C,B,G,A,A,Hb E Homozygote
+1294,D,G,D,E,B,D,A,A,Hb E trait
+1295,B,J,K,E,A,A,A,A,Normal Hb type
+1296,C,K,K,E,A,A,A,A,Normal Hb type
+1297,B,G,E,E,B,D,A,A,Hb E trait
+1298,C,G,E,F,A,D,A,A,Hb E trait
+1299,B,A,H,D,A,B,A,A,Hb E trait + Alpha thal1 trait
+1300,C,I,D,E,A,D,A,A,Hb E trait
+1301,C,G,D,E,A,D,A,A,Hb E trait
+1302,C,B,K,E,A,A,A,A,Alpha thal1 trait
+1303,C,G,D,E,A,D,A,A,Hb E trait
+1304,B,G,I,E,A,A,A,A,Alpha thal trait
+1305,C,H,D,D,B,D,A,A,Hb E trait
+1306,C,D,G,F,C,C,A,A,Hb E trait + Alpha thal1 trait
+1307,C,D,I,G,A,A,A,A,Beta thal trait
+1308,C,G,D,E,A,D,A,A,Hb E trait
+1309,D,F,D,D,A,D,A,A,Hb E trait
+1310,C,G,D,E,A,D,A,A,Hb E trait
+1311,C,H,E,F,A,D,A,A,Hb E trait
+1312,C,D,K,E,A,A,A,A,Alpha thal1 trait
+1313,B,K,D,D,B,D,A,A,Hb E trait
+1314,C,G,D,E,B,D,A,A,Hb E trait
+1315,C,D,I,G,B,A,A,A,Beta thal trait
+1316,C,K,G,D,A,D,A,A,Hb E trait
+1317,D,I,D,F,A,D,A,A,Hb E trait
+1318,C,I,D,E,B,D,A,A,Hb E trait
+1319,B,E,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+1320,C,H,D,F,A,D,A,A,Hb E trait
+1321,D,C,A,B,A,G,A,A,Hb E Homozygote
+1322,D,G,K,D,A,A,A,A,Alpha thal trait
+1323,C,I,D,E,A,D,A,A,Hb E trait
+1324,C,I,D,F,A,D,A,A,Hb E trait
+1325,C,E,D,D,A,D,A,A,Hb E trait
+1326,D,E,D,D,A,D,A,A,Hb E trait
+1327,C,F,F,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+1328,B,D,I,G,A,A,A,A,Beta thal trait
+1329,C,I,D,E,A,D,A,A,Hb E trait
+1330,C,C,A,C,A,G,A,A,Hb E Homozygote
+1331,C,F,D,E,B,D,A,A,Hb E trait
+1332,C,G,D,F,A,D,A,A,Hb E trait
+1333,B,G,E,E,A,D,A,A,Hb E trait
+1334,C,I,D,D,A,D,A,A,Hb E trait
+1335,B,C,K,E,A,A,A,A,Alpha thal1 trait
+1336,C,I,E,F,A,D,A,A,Hb E trait
+1337,C,G,K,E,A,A,A,A,Alpha thal trait
+1338,C,B,A,A,B,G,A,A,Hb E Homozygote
+1339,C,H,E,F,A,D,A,A,Hb E trait
+1340,C,H,D,E,A,D,A,A,Hb E trait
+1341,C,H,I,D,A,A,A,A,Alpha thal trait
+1342,B,I,D,D,B,D,A,A,Hb E trait
+1343,C,I,D,F,A,D,A,A,Hb E trait
+1344,B,H,K,E,A,A,A,A,Alpha thal trait
+1345,B,D,I,F,C,A,A,A,Beta thal trait
+1346,B,D,A,B,C,G,A,A,Hb E Homozygote
+1347,C,I,D,E,A,D,A,A,Hb E trait
+1348,B,J,D,D,A,D,A,A,Hb E trait
+1349,D,G,E,E,A,D,A,A,Hb E trait
+1350,C,D,E,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+1351,B,C,A,B,C,G,A,A,Hb E Homozygote
+1352,C,I,D,F,A,D,A,A,Hb E trait
+1353,C,G,D,E,A,D,A,A,Hb E trait
+1354,C,G,G,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+1355,C,F,D,E,A,D,A,A,Hb E trait
+1356,C,F,D,F,A,D,A,A,Hb E trait
+1357,C,D,D,D,B,D,A,A,Hb E trait
+1358,C,G,D,E,A,D,A,A,Hb E trait
+1359,C,G,D,D,A,D,A,A,Hb E trait
+1360,C,I,D,F,B,D,A,A,Hb E trait
+1361,C,I,E,F,A,D,A,A,Hb E trait
+1362,C,F,E,E,A,C,A,A,Hb E trait + Alpha thal1 trait
+1363,C,F,K,D,A,A,A,A,Alpha thal1 trait
+1364,B,I,D,D,A,D,A,A,Hb E trait
+1365,C,G,K,D,A,A,A,A,Alpha thal trait
+1366,C,I,D,E,B,D,A,A,Hb E trait
+1367,C,G,D,F,B,D,A,A,Hb E trait
+1368,C,C,G,D,A,C,A,A,Hb E trait + Alpha thal1 trait
+1369,C,B,A,A,A,G,A,A,Hb E Homozygote
+1370,C,J,E,F,A,D,A,A,Hb E trait
+1371,C,A,H,F,A,B,A,A,Hb E trait + Alpha thal1 trait
+1372,B,B,I,G,B,A,A,A,Beta thal trait
+1373,C,H,D,D,B,D,A,A,Hb E trait
+1374,D,I,D,D,A,D,A,A,Hb E trait
+1375,C,G,E,E,A,D,A,A,Hb E trait
+1376,C,K,K,E,A,A,A,A,Normal Hb type
+1377,B,D,K,E,A,A,A,A,Alpha thal1 trait
+1378,C,G,D,E,A,D,A,A,Hb E trait
+1379,C,H,I,D,B,A,A,A,Alpha thal trait
+1380,C,G,K,E,A,A,A,A,Alpha thal trait
+1381,B,C,I,F,A,A,A,A,Beta thal trait
+1382,B,B,I,G,A,A,A,A,Beta thal trait
+1383,D,I,K,E,A,A,A,A,Normal Hb type
+1384,D,G,E,D,A,D,A,A,Hb E trait
+1386,D,I,I,E,A,A,A,A,Normal Hb type
+1387,C,I,D,E,A,D,A,A,Hb E trait
+1388,C,H,K,E,A,A,A,A,Alpha thal trait
+1389,D,I,I,E,A,A,A,A,Normal Hb type
+1390,C,I,E,F,A,D,A,A,Hb E trait
+1391,B,E,G,D,B,C,A,A,Hb E trait + Alpha thal1 trait
+1392,C,G,D,E,B,D,A,A,Hb E trait
+1393,C,D,A,A,A,G,A,A,Hb E Homozygote
+1394,B,G,F,F,A,D,A,A,Hb E trait
+1395,C,I,D,F,A,D,A,A,Hb E trait
+1396,C,G,K,E,A,A,A,A,Alpha thal trait
+1397,D,G,J,D,B,D,A,A,Hb E trait
+1398,D,J,D,D,A,D,A,A,Hb E trait
+1399,C,D,K,D,A,A,A,A,Alpha thal1 trait
+1400,C,H,K,D,A,A,A,A,Alpha thal trait
+1401,B,I,E,D,A,D,A,A,Hb E trait
+1402,C,G,D,F,A,D,A,A,Hb E trait
+181,C,C,A,H,D,F,A,A,Beta0 thal/Hb E disease
+178,A,C,A,H,D,D,A,A,Beta0 thal/Hb E disease
+187,D,F,A,G,D,E,A,A,Beta0 thal/Hb E disease
+189,C,G,A,H,D,D,A,A,Beta0 thal/Hb E disease
+185,B,E,A,G,D,E,A,A,Beta0 thal/Hb E disease
+182,A,D,A,H,D,D,A,A,Beta0 thal/Hb E disease
+187,D,F,A,H,D,E,A,A,Beta0 thal/Hb E disease
+179,A,C,A,G,D,E,A,A,Beta0 thal/Hb E disease
+181,C,C,A,H,D,F,A,A,Beta0 thal/Hb E disease
+184,A,D,A,G,D,F,A,A,Beta0 thal/Hb E disease
+177,A,B,A,H,D,F,A,A,Beta0 thal/Hb E disease
+181,C,C,A,G,D,F,A,A,Beta0 thal/Hb E disease
+185,B,E,A,H,D,E,A,A,Beta0 thal/Hb E disease
+185,B,E,A,H,D,E,A,A,Beta0 thal/Hb E disease
+182,A,D,A,G,D,D,A,A,Beta0 thal/Hb E disease
+179,A,C,A,G,D,E,A,A,Beta0 thal/Hb E disease
+178,A,C,A,H,D,D,A,A,Beta0 thal/Hb E disease
+182,A,D,A,H,D,D,A,A,Beta0 thal/Hb E disease
+182,A,D,A,G,D,D,A,A,Beta0 thal/Hb E disease
+177,A,B,A,G,D,F,A,A,Beta0 thal/Hb E disease
+180,B,C,A,H,D,G,A,A,Beta0 thal/Hb E disease
+179,A,C,A,H,D,E,A,A,Beta0 thal/Hb E disease
+176,A,B,A,G,D,E,A,A,Beta0 thal/Hb E disease
+182,A,D,A,H,D,D,A,A,Beta0 thal/Hb E disease
+186,B,E,A,G,D,F,A,A,Beta0 thal/Hb E disease
+188,B,G,A,G,D,F,A,A,Beta0 thal/Hb E disease
+180,B,C,A,G,D,G,A,A,Beta0 thal/Hb E disease
+176,A,B,A,G,D,E,A,A,Beta0 thal/Hb E disease
+186,B,E,A,G,D,F,A,A,Beta0 thal/Hb E disease
+179,A,C,A,H,D,E,A,A,Beta0 thal/Hb E disease
+175,A,A,A,H,D,F,A,A,Beta0 thal/Hb E disease
+186,B,E,A,H,D,F,A,A,Beta0 thal/Hb E disease
+184,A,D,A,G,D,F,A,A,Beta0 thal/Hb E disease
+180,B,C,A,H,D,G,A,A,Beta0 thal/Hb E disease
+187,D,F,A,H,D,E,A,A,Beta0 thal/Hb E disease
+206,A,J,B,B,F,A,A,A,FA2
+203,A,G,B,B,F,A,A,A,FA2
+207,A,K,A,A,F,A,A,A,FA2
+204,A,I,A,B,F,A,A,A,FA2
+206,A,J,B,A,F,A,A,A,FA2
+1050,A,D,A,B,F,A,A,A,FA2
+202,A,G,A,B,F,A,A,A,FA2
+206,A,J,B,B,F,A,A,A,FA2
+207,A,K,A,B,F,A,A,A,FA2
+204,A,I,A,A,F,A,A,A,FA2
+203,A,G,B,A,F,A,A,A,FA2
+207,A,K,A,B,F,A,A,A,FA2
+207,A,K,A,A,F,A,A,A,FA2
+202,A,G,A,B,F,A,A,A,FA2
+205,A,J,A,A,F,A,A,A,FA2
+204,A,I,A,B,F,A,A,A,FA2
+201,A,E,A,A,F,A,A,A,FA2
+207,A,K,A,B,F,A,A,A,FA2
+205,A,J,A,A,F,A,A,A,FA2
+201,A,E,A,B,F,A,A,A,FA2
+204,A,I,A,B,F,A,A,A,FA2
+200,A,D,A,B,F,A,A,A,FA2
+1050,A,D,A,B,F,A,A,A,FA2
+205,A,J,A,B,F,A,A,A,FA2
+969,A,D,A,A,F,A,A,A,FA2
+200,A,D,A,A,F,A,A,A,FA2
+1050,A,D,A,B,F,A,A,A,FA2
+202,A,G,A,B,F,A,A,A,FA2
+206,A,J,B,A,F,A,A,A,FA2
+203,A,G,B,A,F,A,A,A,FA2
+969,A,D,A,B,F,A,A,A,FA2
+202,A,G,A,A,F,A,A,A,FA2
+204,A,I,A,B,F,A,A,A,FA2
+202,A,G,A,A,F,A,A,A,FA2
+206,A,J,B,B,F,A,A,A,FA2
+204,A,I,A,A,F,A,A,A,FA2
+969,A,D,A,A,F,A,A,A,FA2
+206,A,J,B,A,F,A,A,A,FA2
+201,A,E,A,A,F,A,A,A,FA2
+203,A,G,B,A,F,A,A,A,FA2
+214,D,I,I,E,A,A,B,A,Hb CS trait
+227,B,K,K,E,A,A,B,A,Hb CS trait
+222,C,E,H,E,A,A,B,A,Hb CS trait
+218,C,H,I,E,A,A,B,A,Hb CS trait
+215,B,D,I,E,A,A,B,A,Hb CS trait
+599,B,G,K,E,B,A,B,A,Hb CS trait
+214,D,I,I,E,A,A,B,A,Hb CS trait
+226,C,I,K,E,A,A,B,A,Hb CS trait
+1125,C,F,K,E,A,A,B,A,Hb CS trait
+218,C,H,I,E,A,A,B,A,Hb CS trait
+218,C,H,I,E,A,A,B,A,Hb CS trait
+599,B,G,K,E,B,A,B,A,Hb CS trait
+211,B,G,K,E,B,A,B,A,Hb CS trait
+215,B,D,I,E,A,A,B,A,Hb CS trait
+210,B,G,I,E,B,A,B,A,Hb CS trait
+749,C,D,I,E,A,A,B,A,Hb CS trait
+599,B,G,K,E,B,A,B,A,Hb CS trait
+209,C,F,K,E,A,A,B,A,Hb CS trait
+219,C,I,I,E,B,A,B,A,Hb CS trait
+213,B,I,K,E,B,A,B,A,Hb CS trait
+209,C,F,K,E,A,A,B,A,Hb CS trait
+599,B,G,K,E,B,A,B,A,Hb CS trait
+208,C,D,I,E,A,A,B,A,Hb CS trait
+219,C,I,I,E,B,A,B,A,Hb CS trait
+749,C,D,I,E,A,A,B,A,Hb CS trait
+219,C,I,I,E,B,A,B,A,Hb CS trait
+224,C,G,K,E,A,A,B,A,Hb CS trait
+1269,A,B,K,D,A,A,A,B,Hb H disease
+381,B,D,H,D,A,A,A,B,Hb H disease
+367,B,D,K,E,A,A,A,B,Hb H disease
+360,A,C,I,D,A,A,A,B,Hb H disease
+373,C,A,K,E,A,A,A,B,Hb H disease
+1269,A,B,K,D,A,A,A,B,Hb H disease
+371,A,A,K,D,A,A,A,A,Hb H disease
+375,A,B,I,E,A,A,A,B,Hb H disease
+363,A,D,G,D,A,A,A,B,Hb H disease
+363,A,D,G,E,A,A,A,B,Hb H disease
+376,A,B,K,D,A,A,A,B,Hb H disease
