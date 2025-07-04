@@ -1,70 +1,70 @@
 # ThalassemiaDetection
 
-**ThalassemiaDetection**, rutin kan tahlili (CBC) verileri kullanılarak çeşitli **talasemi (thalassemia)** alt tiplerini sınıflandırmayı amaçlayan bir projedir. Genetik testlere gerek kalmadan, yalnızca hematolojik değerlerle doğru ve erken tanı koymayı hedefleyen bu çalışma, klinik karar destek sistemlerine katkı sağlamayı amaçlamaktadır.
+**ThalassemiaDetection** is a project designed to classify various subtypes of **thalassemia** using routine blood test (CBC) data. The aim is to enable accurate and early diagnosis using only hematological values—without the need for genetic testing—thus contributing to clinical decision support systems.
 
 ---
 
-## 🎯 Proje Amacı
+## 🎯 Project Goals
 
-Talasemi, kalıtsal bir kan hastalığıdır ve dünyada özellikle Akdeniz, Orta Doğu ve Güneydoğu Asya bölgelerinde yaygın olarak görülmektedir. Bu proje ile amaçlanan:
+Thalassemia is a hereditary blood disorder, particularly prevalent in the Mediterranean, Middle Eastern, and Southeast Asian regions. The goals of this project are:
 
-- **Genetik testlere gerek kalmadan** CBC verileriyle talasemi ve alt türlerini doğru şekilde sınıflandırmak
-- Kliniklerde **düşük maliyetli ve erişilebilir** bir ön tanı aracı sunmak
-- Farklı sınıflandırma modelleriyle **en etkili yaklaşımı belirlemek**
-- Modelin **yorumlanabilirliğini artırarak** doktorlara karar sürecinde destek sağlamak
+- Accurately classify thalassemia and its subtypes using CBC data without relying on genetic tests  
+- Provide an accessible and low-cost pre-diagnostic tool for clinical settings  
+- Evaluate multiple classification models to determine the most effective approach  
+- Enhance model interpretability to support physicians in clinical decision-making  
 
-Talaseminin doğru şekilde sınıflandırılması, tedavi planlarının oluşturulması ve taşıyıcıların belirlenmesi açısından oldukça kritiktir. Bu nedenle projemiz, hem tıbbi doğruluk hem de pratik uygulanabilirlik açısından yüksek etkili bir sistem sunmayı hedeflemektedir.
-
----
-
-## 🧬 Veri Seti
-
-Veri seti, akademik iş birliğiyle Tayland'da yapılmış bir çalışmadan elde edilmiştir. Sadece akademik amaçlarla kullanıma açıktır.
-
-### 📂 Dosyalar
-
-- `csv_result-Train90.csv` — Eğitim verileri  
-- `csv_result-Test90.csv` — Test verileri
-
-### 📊 İçerdiği Özellikler (CBC Parametreleri)
-
-- **MCV (Mean Corpuscular Volume):** Hücre hacmi, talasemi ve demir eksikliği anemisinde ayırıcı özelliktir.
-- **MCH, MCHC:** Hemoglobin yoğunluğu
-- **HbA2:** Özellikle beta talasemi taşıyıcılığı tanısında önemli
-- **HbE, HbF, Hb Bart’s:** Özel hemoglobin türleri, talasemi alt tiplerinin ayrımında kritik rol oynar
-- **HbA0, Hb D/S/CS/C:** Diğer varyantların sınıflandırılmasına yardımcı
-
-
-### 📌 Veri Temizleme ve Hazırlama
-
-- Nadir sınıflar kaldırıldı (örneğin: < 5 örnek)
-- SMOTE ile azınlık sınıflar dengelendi
-- Aşırı örnek içeren sınıflar downsample edildi (4000 → 500)
-- Veri sızıntısı ve tekrar kayıtlar engellendi
-- Stratified split ile dengeli eğitim/test ayrımı sağlandı
-
-Veri seti, **11 sınıfa** ayrılmış olup hem yaygın hem de nadir görülen talasemi alt tiplerini kapsamaktadır.
+Correct classification of thalassemia is crucial for developing treatment plans and identifying carriers. This project aims to deliver a high-impact system in terms of both medical accuracy and practical usability.
 
 ---
 
+## 🧬 Dataset
 
-## 🚀 Kurulum ve Kullanım
+The dataset was obtained from a collaborative academic study conducted in Thailand and is available for academic use only.
 
-1. Gerekli paketleri yükleyin:
+### 📂 Files
+
+- `csv_result-Train90.csv` — Training data  
+- `csv_result-Test90.csv` — Test data
+
+### 📊 Features (CBC Parameters)
+
+- **MCV (Mean Corpuscular Volume):** Distinguishing factor in thalassemia and iron-deficiency anemia  
+- **MCH, MCHC:** Hemoglobin concentration  
+- **HbA2:** Key marker for beta-thalassemia carriers  
+- **HbE, HbF, Hb Bart’s:** Special hemoglobin types crucial in subtype classification  
+- **HbA0, Hb D/S/CS/C:** Help distinguish other variants  
+
+### 📌 Data Cleaning & Preparation
+
+- Removed rare classes (e.g., < 5 samples)  
+- Balanced minority classes using SMOTE  
+- Downsampled overrepresented classes (4000 → 500)  
+- Prevented data leakage and duplicate records  
+- Ensured balanced train/test split using stratified sampling  
+
+The dataset contains **11 classes**, covering both common and rare thalassemia subtypes.
+
+
+---
+
+
+## 🚀 Installation & Usage
+
+1. Install required packages:
 
 ```bash
 pip install pytorch-tabnet scikit-learn pandas matplotlib imblearn
 ```
 
-2. Notebook'u çalıştırın:
+2. Run the notebook:
 
 ```bash
 jupyter notebook Untitled12.ipynb
 ```
 
-Notebook içindeki adımları takip ederek verileri yükleyebilir, modelleri eğitebilir ve sonuçları analiz edebilirsiniz.
+You can load data, train models, and analyse results by following the steps in the notebook.
 
 ---
 
-Bu proje ile sadece doğruluk değil, aynı zamanda **klinik anlamda güvenilir ve anlaşılabilir sonuçlar üreten** bir model hedeflenmiştir. Modelin en başarılı çıktısı olan **TabNet**, hem doğruluk hem de yorumlanabilirlik açısından dikkat çekmiştir.
+This project aims to produce a model that not only achieves accuracy but also **produces clinically reliable and interpretable results**. The model's most successful output, **TabNet**, has attracted attention for its accuracy and interpretability.
 
